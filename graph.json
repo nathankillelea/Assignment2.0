@@ -1,0 +1,8413 @@
+{
+  "actor_nodes": [
+    {
+      "name": "Morgan Freeman",
+      "age": 80,
+      "total_grossing_value": 1094209270.070827,
+      "adjacency_list": [
+        {
+          "node": "Brubaker",
+          "weight": 2552117.425
+        },
+        {
+          "node": "Marie",
+          "weight": 94049.8125
+        },
+        {
+          "node": "That Was Then... This Is Now",
+          "weight": 593317.175
+        },
+        {
+          "node": "Glory",
+          "weight": 2093750.0
+        },
+        {
+          "node": "Driving Miss Daisy",
+          "weight": 42525000.0
+        },
+        {
+          "node": "Johnny Handsome",
+          "weight": 64623.16071428572
+        },
+        {
+          "node": "Robin Hood: Prince of Thieves",
+          "weight": 30507812.5
+        },
+        {
+          "node": "Unforgiven",
+          "weight": 86233333.33333333
+        },
+        {
+          "node": "The Shawshank Redemption",
+          "weight": 2186250.0
+        },
+        {
+          "node": "Seven",
+          "weight": 54550000.0
+        },
+        {
+          "node": "Chain Reaction",
+          "weight": 1097565.984375
+        },
+        {
+          "node": "Amistad",
+          "weight": 366894.53125
+        },
+        {
+          "node": "Kiss the Girls",
+          "weight": 4726562.5
+        },
+        {
+          "node": "Deep Impact",
+          "weight": 44597656.25
+        },
+        {
+          "node": "Nurse Betty",
+          "weight": 535937.5
+        },
+        {
+          "node": "Along Came a Spider",
+          "weight": 3945000.0
+        },
+        {
+          "node": "The Sum of All Fears",
+          "weight": 6275781.25
+        },
+        {
+          "node": "High Crimes",
+          "weight": 23925000.0
+        },
+        {
+          "node": "Bruce Almighty",
+          "weight": 8833854.166666666
+        },
+        {
+          "node": "Million Dollar Baby",
+          "weight": 81300000.0
+        },
+        {
+          "node": "Unleashed",
+          "weight": 8483333.333333334
+        },
+        {
+          "node": "An Unfinished Life",
+          "weight": 6975000.0
+        },
+        {
+          "node": "Batman Begins",
+          "weight": 767402.34375
+        },
+        {
+          "node": "Lucky Number Slevin",
+          "weight": 2111250.0
+        },
+        {
+          "node": "10 Items or Less",
+          "weight": 408106.4166666667
+        },
+        {
+          "node": "Evan Almighty",
+          "weight": 3160937.5
+        },
+        {
+          "node": "Gone, Baby, Gone",
+          "weight": 152050.78125
+        },
+        {
+          "node": "The Bucket List",
+          "weight": 65775000.0
+        },
+        {
+          "node": "Wanted",
+          "weight": 6223437.5
+        },
+        {
+          "node": "The Dark Knight",
+          "weight": 167499999.99999997
+        },
+        {
+          "node": "Invictus",
+          "weight": 122200000.0
+        },
+        {
+          "node": "RED",
+          "weight": 15546875.0
+        },
+        {
+          "node": "Dolphin Tale",
+          "weight": 6593125.0
+        },
+        {
+          "node": "The Dark Knight Rises",
+          "weight": 84765625.0
+        },
+        {
+          "node": "The Magic of Belle Isle",
+          "weight": 449.947265625
+        },
+        {
+          "node": "Olympus Has Fallen",
+          "weight": 369357.6388888889
+        },
+        {
+          "node": "Oblivion",
+          "weight": 22359375.0
+        },
+        {
+          "node": "Now You See Me",
+          "weight": 6411197.916666667
+        },
+        {
+          "node": "Last Vegas",
+          "weight": 10500000.0
+        },
+        {
+          "node": "The Lego Movie",
+          "weight": 2065429.6875
+        },
+        {
+          "node": "Transcendence",
+          "weight": 8046875.0
+        },
+        {
+          "node": "Lucy",
+          "weight": 77233333.33333333
+        },
+        {
+          "node": "Dolphin Tale 2",
+          "weight": 21675000.0
+        },
+        {
+          "node": "Momentum",
+          "weight": 39051.0
+        },
+        {
+          "node": "Ted 2",
+          "weight": 8126250.0
+        },
+        {
+          "node": "London Has Fallen",
+          "weight": 34283333.333333336
+        },
+        {
+          "node": "Now You See Me 2",
+          "weight": 12558750.0
+        },
+        {
+          "node": "Going In Style",
+          "weight": 2874218.75
+        }
+      ]
+    },
+    {
+      "name": "Robert Redford",
+      "age": 81,
+      "total_grossing_value": 1392064.05,
+      "adjacency_list": [
+        {
+          "node": "Brubaker",
+          "weight": 1392064.05
+        }
+      ]
+    },
+    {
+      "name": "Yaphet Kotto",
+      "age": 78,
+      "total_grossing_value": 144014814.6876488,
+      "adjacency_list": [
+        {
+          "node": "Brubaker",
+          "weight": 9512437.675
+        },
+        {
+          "node": "The Thomas Crown Affair",
+          "weight": 4083333.3333333335
+        },
+        {
+          "node": "5 Card Stud",
+          "weight": 1804687.5
+        },
+        {
+          "node": "The Liberation of L.B. Jones",
+          "weight": 82700.89285714286
+        },
+        {
+          "node": "Across 110th Street",
+          "weight": 10000000.0
+        },
+        {
+          "node": "Live and Let Die",
+          "weight": 42978125.0
+        },
+        {
+          "node": "Truck Turner",
+          "weight": 650416.6666666666
+        },
+        {
+          "node": "Alien",
+          "weight": 6829427.083333333
+        },
+        {
+          "node": "Fighting Back",
+          "weight": 1258480.5
+        },
+        {
+          "node": "The Star Chamber",
+          "weight": 1633333.3333333333
+        },
+        {
+          "node": "Terror in the Aisles",
+          "weight": 2918071.625
+        },
+        {
+          "node": "Warning Sign",
+          "weight": 149852.890625
+        },
+        {
+          "node": "The Running Man",
+          "weight": 5343750.0
+        },
+        {
+          "node": "Midnight Run",
+          "weight": 51000000.0
+        },
+        {
+          "node": "Freddy's Dead: The Final Nightmare",
+          "weight": 1308750.0
+        },
+        {
+          "node": "The Puppet Masters",
+          "weight": 2522053.9166666665
+        },
+        {
+          "node": "Two If by Sea",
+          "weight": 1783333.3333333333
+        },
+        {
+          "node": "Witless Protection",
+          "weight": 156060.9375
+        }
+      ]
+    },
+    {
+      "name": "Jane Alexander",
+      "age": 78,
+      "total_grossing_value": 4872224.175,
+      "adjacency_list": [
+        {
+          "node": "Brubaker",
+          "weight": 4872224.175
+        }
+      ]
+    },
+    {
+      "name": "David Keith",
+      "age": 63,
+      "total_grossing_value": 137566962.91665313,
+      "adjacency_list": [
+        {
+          "node": "Brubaker",
+          "weight": 18792864.675
+        },
+        {
+          "node": "The Great Santini",
+          "weight": 1370833.3333333333
+        },
+        {
+          "node": "The Rose",
+          "weight": 15816666.666666666
+        },
+        {
+          "node": "Back Roads",
+          "weight": 6391666.666666667
+        },
+        {
+          "node": "Take This Job and Shove It",
+          "weight": 8804123.292410715
+        },
+        {
+          "node": "An Officer and a Gentleman",
+          "weight": 34796875.0
+        },
+        {
+          "node": "The Lords of Discipline",
+          "weight": 6384693.791666667
+        },
+        {
+          "node": "Independence Day",
+          "weight": 94663.75
+        },
+        {
+          "node": "Firestarter",
+          "weight": 2182031.25
+        },
+        {
+          "node": "The Two Jakes",
+          "weight": 1312500.0
+        },
+        {
+          "node": "Major League II",
+          "weight": 242257.8849609375
+        },
+        {
+          "node": "Raw Justice",
+          "weight": 10282596.625
+        },
+        {
+          "node": "The Indian in the Cupboard",
+          "weight": 2324218.75
+        },
+        {
+          "node": "Gold Diggers: The Secret of Bear Mountain",
+          "weight": 471022.734375
+        },
+        {
+          "node": "A Family Thing",
+          "weight": 10125417.0
+        },
+        {
+          "node": "U-571",
+          "weight": 2315104.1666666665
+        },
+        {
+          "node": "Men of Honor",
+          "weight": 2787670.4036458335
+        },
+        {
+          "node": "Behind Enemy Lines",
+          "weight": 6325000.0
+        },
+        {
+          "node": "Daredevil",
+          "weight": 6720000.0
+        },
+        {
+          "node": "Hangman's Curse",
+          "weight": 11577.9125
+        },
+        {
+          "node": "Raise Your Voice",
+          "weight": 15179.01376065341
+        }
+      ]
+    },
+    {
+      "name": "Sissy Spacek",
+      "age": 68,
+      "total_grossing_value": 90401853.88718294,
+      "adjacency_list": [
+        {
+          "node": "Marie",
+          "weight": 329174.34375
+        },
+        {
+          "node": "Coal Miner's Daughter",
+          "weight": 19594979.541666668
+        },
+        {
+          "node": "Missing",
+          "weight": 4083333.3333333335
+        },
+        {
+          "node": "The Man with Two Brains",
+          "weight": 3019752.75
+        },
+        {
+          "node": "Crimes of the Heart",
+          "weight": 6084279.28125
+        },
+        {
+          "node": "The Long Walk Home",
+          "weight": 375237.421875
+        },
+        {
+          "node": "Hard Promises",
+          "weight": 51053.166666666664
+        },
+        {
+          "node": "JFK",
+          "weight": 16046875.0
+        },
+        {
+          "node": "Trading Mom",
+          "weight": 84767.046875
+        },
+        {
+          "node": "The Grass Harp",
+          "weight": 35034.46845703125
+        },
+        {
+          "node": "Affliction",
+          "weight": 807741.265625
+        },
+        {
+          "node": "Blast from the Past",
+          "weight": 2770625.0
+        },
+        {
+          "node": "The Straight Story",
+          "weight": 3875000.0
+        },
+        {
+          "node": "In the Bedroom",
+          "weight": 7233333.333333333
+        },
+        {
+          "node": "Tuck Everlasting",
+          "weight": 172719.7767857143
+        },
+        {
+          "node": "Nine Lives",
+          "weight": 383.0635175704956
+        },
+        {
+          "node": "The Ring Two",
+          "weight": 1441964.2857142857
+        },
+        {
+          "node": "North Country",
+          "weight": 1968750.0
+        },
+        {
+          "node": "An American Haunting",
+          "weight": 4935356.166666667
+        },
+        {
+          "node": "Gray Matters",
+          "weight": 2212.5
+        },
+        {
+          "node": "Hot Rod",
+          "weight": 2389066.8333333335
+        },
+        {
+          "node": "Lake City",
+          "weight": 475.725
+        },
+        {
+          "node": "Four Christmases",
+          "weight": 5541927.083333333
+        },
+        {
+          "node": "Get Low",
+          "weight": 1364062.5
+        },
+        {
+          "node": "The Help",
+          "weight": 8122500.0
+        },
+        {
+          "node": "Deadfall",
+          "weight": 71250.0
+        }
+      ]
+    },
+    {
+      "name": "Jeff Daniels",
+      "age": 63,
+      "total_grossing_value": 327449558.5607639,
+      "adjacency_list": [
+        {
+          "node": "Marie",
+          "weight": 1269672.46875
+        },
+        {
+          "node": "Ragtime",
+          "weight": 6936948.75
+        },
+        {
+          "node": "Terms of Endearment",
+          "weight": 55893750.0
+        },
+        {
+          "node": "The Purple Rose of Cairo",
+          "weight": 5758638.708333333
+        },
+        {
+          "node": "Something Wild",
+          "weight": 1400000.0
+        },
+        {
+          "node": "Heartburn",
+          "weight": 15812500.0
+        },
+        {
+          "node": "Radio Days",
+          "weight": 3703211.8055555555
+        },
+        {
+          "node": "The House on Carroll Street",
+          "weight": 287390.0
+        },
+        {
+          "node": "Sweet Hearts Dance",
+          "weight": 1006849.703125
+        },
+        {
+          "node": "Checking Out",
+          "weight": 31000.0
+        },
+        {
+          "node": "Arachnophobia",
+          "weight": 8866666.666666666
+        },
+        {
+          "node": "Welcome Home, Roxy Carmichael",
+          "weight": 664882.8333333334
+        },
+        {
+          "node": "The Butcher's Wife",
+          "weight": 1362630.375
+        },
+        {
+          "node": "Rain Without Thunder",
+          "weight": 3125.0
+        },
+        {
+          "node": "Gettysburg",
+          "weight": 5452292.25
+        },
+        {
+          "node": "Speed",
+          "weight": 219000000.0
+        }
+      ]
+    },
+    {
+      "name": "Keith Szarabajka",
+      "age": 65,
+      "total_grossing_value": 642673.71875,
+      "adjacency_list": [
+        {
+          "node": "Marie",
+          "weight": 642673.71875
+        }
+      ]
+    },
+    {
+      "name": "Fred Thompson",
+      "age": 75,
+      "total_grossing_value": 172424.65625,
+      "adjacency_list": [
+        {
+          "node": "Marie",
+          "weight": 172424.65625
+        }
+      ]
+    },
+    {
+      "name": "Craig Sheffer",
+      "age": 57,
+      "total_grossing_value": 1132696.425,
+      "adjacency_list": [
+        {
+          "node": "That Was Then... This Is Now",
+          "weight": 1132696.425
+        }
+      ]
+    },
+    {
+      "name": "Kim Delaney",
+      "age": 56,
+      "total_grossing_value": 2211454.925,
+      "adjacency_list": [
+        {
+          "node": "That Was Then... This Is Now",
+          "weight": 2211454.925
+        }
+      ]
+    },
+    {
+      "name": "Jill Schoelen",
+      "age": 54,
+      "total_grossing_value": 4368971.925,
+      "adjacency_list": [
+        {
+          "node": "That Was Then... This Is Now",
+          "weight": 4368971.925
+        }
+      ]
+    },
+    {
+      "name": "Barbara Babcock",
+      "age": 81,
+      "total_grossing_value": 323627.55,
+      "adjacency_list": [
+        {
+          "node": "That Was Then... This Is Now",
+          "weight": 323627.55
+        }
+      ]
+    },
+    {
+      "name": "Matthew Broderick",
+      "age": 55,
+      "total_grossing_value": 13818750.0,
+      "adjacency_list": [
+        {
+          "node": "Glory",
+          "weight": 13818750.0
+        }
+      ]
+    },
+    {
+      "name": "Denzel Washington",
+      "age": 63,
+      "total_grossing_value": 3768750.0,
+      "adjacency_list": [
+        {
+          "node": "Glory",
+          "weight": 3768750.0
+        }
+      ]
+    },
+    {
+      "name": "Cary Elwes",
+      "age": 55,
+      "total_grossing_value": 7118750.0,
+      "adjacency_list": [
+        {
+          "node": "Glory",
+          "weight": 7118750.0
+        }
+      ]
+    },
+    {
+      "name": "Jessica Tandy",
+      "age": 108,
+      "total_grossing_value": 24300000.0,
+      "adjacency_list": [
+        {
+          "node": "Driving Miss Daisy",
+          "weight": 24300000.0
+        }
+      ]
+    },
+    {
+      "name": "Dan Aykroyd",
+      "age": 65,
+      "total_grossing_value": 78975000.0,
+      "adjacency_list": [
+        {
+          "node": "Driving Miss Daisy",
+          "weight": 78975000.0
+        }
+      ]
+    },
+    {
+      "name": "Mickey Rourke",
+      "age": 65,
+      "total_grossing_value": 460440.02008928574,
+      "adjacency_list": [
+        {
+          "node": "Johnny Handsome",
+          "weight": 460440.02008928574
+        }
+      ]
+    },
+    {
+      "name": "Ellen Barkin",
+      "age": 63,
+      "total_grossing_value": 912802.1450892857,
+      "adjacency_list": [
+        {
+          "node": "Johnny Handsome",
+          "weight": 912802.1450892857
+        }
+      ]
+    },
+    {
+      "name": "Elizabeth McGovern",
+      "age": 56,
+      "total_grossing_value": 3626974.895089286,
+      "adjacency_list": [
+        {
+          "node": "Johnny Handsome",
+          "weight": 3626974.895089286
+        }
+      ]
+    },
+    {
+      "name": "Forest Whitaker",
+      "age": 56,
+      "total_grossing_value": 1817526.3950892857,
+      "adjacency_list": [
+        {
+          "node": "Johnny Handsome",
+          "weight": 1817526.3950892857
+        }
+      ]
+    },
+    {
+      "name": "Scott Wilson",
+      "age": 75,
+      "total_grossing_value": 234258.9575892857,
+      "adjacency_list": [
+        {
+          "node": "Johnny Handsome",
+          "weight": 234258.9575892857
+        }
+      ]
+    },
+    {
+      "name": "Lance Henriksen",
+      "age": 77,
+      "total_grossing_value": 121168.42633928571,
+      "adjacency_list": [
+        {
+          "node": "Johnny Handsome",
+          "weight": 121168.42633928571
+        }
+      ]
+    },
+    {
+      "name": "Christian Slater",
+      "age": 48,
+      "total_grossing_value": 201351562.5,
+      "adjacency_list": [
+        {
+          "node": "Robin Hood: Prince of Thieves",
+          "weight": 201351562.5
+        }
+      ]
+    },
+    {
+      "name": "Alan Rickman",
+      "age": 72,
+      "total_grossing_value": 54914062.5,
+      "adjacency_list": [
+        {
+          "node": "Robin Hood: Prince of Thieves",
+          "weight": 54914062.5
+        }
+      ]
+    },
+    {
+      "name": "Mary Elizabeth Mastrantonio",
+      "age": 59,
+      "total_grossing_value": 103726562.5,
+      "adjacency_list": [
+        {
+          "node": "Robin Hood: Prince of Thieves",
+          "weight": 103726562.5
+        }
+      ]
+    },
+    {
+      "name": "Gene Hackman",
+      "age": 88,
+      "total_grossing_value": 26533333.333333332,
+      "adjacency_list": [
+        {
+          "node": "Unforgiven",
+          "weight": 26533333.333333332
+        }
+      ]
+    },
+    {
+      "name": "Richard Harris",
+      "age": 87,
+      "total_grossing_value": 46433333.333333336,
+      "adjacency_list": [
+        {
+          "node": "Unforgiven",
+          "weight": 46433333.333333336
+        }
+      ]
+    },
+    {
+      "name": "Tim Robbins",
+      "age": 59,
+      "total_grossing_value": 29514375.0,
+      "adjacency_list": [
+        {
+          "node": "The Shawshank Redemption",
+          "weight": 29514375.0
+        }
+      ]
+    },
+    {
+      "name": "Bob Gunton",
+      "age": 72,
+      "total_grossing_value": 4008125.0,
+      "adjacency_list": [
+        {
+          "node": "The Shawshank Redemption",
+          "weight": 4008125.0
+        }
+      ]
+    },
+    {
+      "name": "William Sadler",
+      "age": 67,
+      "total_grossing_value": 7651875.0,
+      "adjacency_list": [
+        {
+          "node": "The Shawshank Redemption",
+          "weight": 7651875.0
+        }
+      ]
+    },
+    {
+      "name": "Clancy Brown",
+      "age": 59,
+      "total_grossing_value": 14939375.0,
+      "adjacency_list": [
+        {
+          "node": "The Shawshank Redemption",
+          "weight": 14939375.0
+        }
+      ]
+    },
+    {
+      "name": "Gwyneth Paltrow",
+      "age": 45,
+      "total_grossing_value": 177287500.0,
+      "adjacency_list": [
+        {
+          "node": "Seven",
+          "weight": 177287500.0
+        }
+      ]
+    },
+    {
+      "name": "John C. McGinley",
+      "age": 58,
+      "total_grossing_value": 95462500.0,
+      "adjacency_list": [
+        {
+          "node": "Seven",
+          "weight": 95462500.0
+        }
+      ]
+    },
+    {
+      "name": "Keanu Reeves",
+      "age": 53,
+      "total_grossing_value": 15209128.640625,
+      "adjacency_list": [
+        {
+          "node": "Chain Reaction",
+          "weight": 15209128.640625
+        }
+      ]
+    },
+    {
+      "name": "Rachel Weisz",
+      "age": 47,
+      "total_grossing_value": 30261462.140625,
+      "adjacency_list": [
+        {
+          "node": "Chain Reaction",
+          "weight": 30261462.140625
+        }
+      ]
+    },
+    {
+      "name": "Fred Ward",
+      "age": 75,
+      "total_grossing_value": 2038336.828125,
+      "adjacency_list": [
+        {
+          "node": "Chain Reaction",
+          "weight": 2038336.828125
+        }
+      ]
+    },
+    {
+      "name": "Kevin Dunn",
+      "age": 61,
+      "total_grossing_value": 7682961.890625,
+      "adjacency_list": [
+        {
+          "node": "Chain Reaction",
+          "weight": 7682961.890625
+        }
+      ]
+    },
+    {
+      "name": "Brian Cox",
+      "age": 71,
+      "total_grossing_value": 3919878.515625,
+      "adjacency_list": [
+        {
+          "node": "Chain Reaction",
+          "weight": 3919878.515625
+        }
+      ]
+    },
+    {
+      "name": "Nigel Hawthorne",
+      "age": 88,
+      "total_grossing_value": 194238.28125,
+      "adjacency_list": [
+        {
+          "node": "Amistad",
+          "weight": 194238.28125
+        }
+      ]
+    },
+    {
+      "name": "Anthony Hopkins",
+      "age": 80,
+      "total_grossing_value": 712207.03125,
+      "adjacency_list": [
+        {
+          "node": "Amistad",
+          "weight": 712207.03125
+        }
+      ]
+    },
+    {
+      "name": "Djimon Hounsou",
+      "age": 53,
+      "total_grossing_value": 11071582.03125,
+      "adjacency_list": [
+        {
+          "node": "Amistad",
+          "weight": 11071582.03125
+        }
+      ]
+    },
+    {
+      "name": "Matthew McConaughey",
+      "age": 48,
+      "total_grossing_value": 22121582.03125,
+      "adjacency_list": [
+        {
+          "node": "Amistad",
+          "weight": 22121582.03125
+        }
+      ]
+    },
+    {
+      "name": "David Paymer",
+      "age": 63,
+      "total_grossing_value": 5546582.03125,
+      "adjacency_list": [
+        {
+          "node": "Amistad",
+          "weight": 5546582.03125
+        }
+      ]
+    },
+    {
+      "name": "Pete Postlethwaite",
+      "age": 72,
+      "total_grossing_value": 1402832.03125,
+      "adjacency_list": [
+        {
+          "node": "Amistad",
+          "weight": 1402832.03125
+        }
+      ]
+    },
+    {
+      "name": "Stellan Skarsgård",
+      "age": 66,
+      "total_grossing_value": 2784082.03125,
+      "adjacency_list": [
+        {
+          "node": "Amistad",
+          "weight": 2784082.03125
+        }
+      ]
+    },
+    {
+      "name": "Ashley Judd",
+      "age": 49,
+      "total_grossing_value": 31195312.5,
+      "adjacency_list": [
+        {
+          "node": "Kiss the Girls",
+          "weight": 31195312.5
+        }
+      ]
+    },
+    {
+      "name": "Tony Goldwyn",
+      "age": 57,
+      "total_grossing_value": 16070312.5,
+      "adjacency_list": [
+        {
+          "node": "Kiss the Girls",
+          "weight": 16070312.5
+        }
+      ]
+    },
+    {
+      "name": "Jay O. Sanders",
+      "age": 64,
+      "total_grossing_value": 8507812.5,
+      "adjacency_list": [
+        {
+          "node": "Kiss the Girls",
+          "weight": 8507812.5
+        }
+      ]
+    },
+    {
+      "name": "Robert Duvall",
+      "age": 87,
+      "total_grossing_value": 6371093.75,
+      "adjacency_list": [
+        {
+          "node": "Deep Impact",
+          "weight": 6371093.75
+        }
+      ]
+    },
+    {
+      "name": "Téa Leoni",
+      "age": 52,
+      "total_grossing_value": 88285156.25,
+      "adjacency_list": [
+        {
+          "node": "Deep Impact",
+          "weight": 88285156.25
+        }
+      ]
+    },
+    {
+      "name": "Elijah Wood",
+      "age": 37,
+      "total_grossing_value": 175660156.25,
+      "adjacency_list": [
+        {
+          "node": "Deep Impact",
+          "weight": 175660156.25
+        }
+      ]
+    },
+    {
+      "name": "Vanessa Redgrave",
+      "age": 81,
+      "total_grossing_value": 22753906.25,
+      "adjacency_list": [
+        {
+          "node": "Deep Impact",
+          "weight": 22753906.25
+        }
+      ]
+    },
+    {
+      "name": "Maximilian Schell",
+      "age": 87,
+      "total_grossing_value": 11832031.25,
+      "adjacency_list": [
+        {
+          "node": "Deep Impact",
+          "weight": 11832031.25
+        }
+      ]
+    },
+    {
+      "name": "Renée Zellweger",
+      "age": 48,
+      "total_grossing_value": 14776562.5,
+      "adjacency_list": [
+        {
+          "node": "Nurse Betty",
+          "weight": 14776562.5
+        }
+      ]
+    },
+    {
+      "name": "Chris Rock",
+      "age": 53,
+      "total_grossing_value": 3751562.5,
+      "adjacency_list": [
+        {
+          "node": "Nurse Betty",
+          "weight": 3751562.5
+        }
+      ]
+    },
+    {
+      "name": "Greg Kinnear",
+      "age": 54,
+      "total_grossing_value": 995312.5,
+      "adjacency_list": [
+        {
+          "node": "Nurse Betty",
+          "weight": 995312.5
+        }
+      ]
+    },
+    {
+      "name": "Aaron Eckhart",
+      "age": 49,
+      "total_grossing_value": 7426562.5,
+      "adjacency_list": [
+        {
+          "node": "Nurse Betty",
+          "weight": 7426562.5
+        }
+      ]
+    },
+    {
+      "name": "Crispin Glover",
+      "age": 53,
+      "total_grossing_value": 1914062.5,
+      "adjacency_list": [
+        {
+          "node": "Nurse Betty",
+          "weight": 1914062.5
+        }
+      ]
+    },
+    {
+      "name": "Monica Potter",
+      "age": 46,
+      "total_grossing_value": 53257500.0,
+      "adjacency_list": [
+        {
+          "node": "Along Came a Spider",
+          "weight": 53257500.0
+        }
+      ]
+    },
+    {
+      "name": "Michael Wincott",
+      "age": 60,
+      "total_grossing_value": 13807500.0,
+      "adjacency_list": [
+        {
+          "node": "Along Came a Spider",
+          "weight": 13807500.0
+        }
+      ]
+    },
+    {
+      "name": "Penelope Ann Miller",
+      "age": 54,
+      "total_grossing_value": 26957500.0,
+      "adjacency_list": [
+        {
+          "node": "Along Came a Spider",
+          "weight": 26957500.0
+        }
+      ]
+    },
+    {
+      "name": "Michael Moriarty",
+      "age": 76,
+      "total_grossing_value": 7232500.0,
+      "adjacency_list": [
+        {
+          "node": "Along Came a Spider",
+          "weight": 7232500.0
+        }
+      ]
+    },
+    {
+      "name": "James Cromwell",
+      "age": 78,
+      "total_grossing_value": 12335156.25,
+      "adjacency_list": [
+        {
+          "node": "The Sum of All Fears",
+          "weight": 12335156.25
+        }
+      ]
+    },
+    {
+      "name": "Bridget Moynahan",
+      "age": 46,
+      "total_grossing_value": 97166406.25,
+      "adjacency_list": [
+        {
+          "node": "The Sum of All Fears",
+          "weight": 97166406.25
+        }
+      ]
+    },
+    {
+      "name": "Liev Schreiber",
+      "age": 50,
+      "total_grossing_value": 48691406.25,
+      "adjacency_list": [
+        {
+          "node": "The Sum of All Fears",
+          "weight": 48691406.25
+        }
+      ]
+    },
+    {
+      "name": "Alan Bates",
+      "age": 84,
+      "total_grossing_value": 3246093.75,
+      "adjacency_list": [
+        {
+          "node": "The Sum of All Fears",
+          "weight": 3246093.75
+        }
+      ]
+    },
+    {
+      "name": "Philip Baker Hall",
+      "age": 86,
+      "total_grossing_value": 1731250.0,
+      "adjacency_list": [
+        {
+          "node": "The Sum of All Fears",
+          "weight": 1731250.0
+        }
+      ]
+    },
+    {
+      "name": "Bruce McGill",
+      "age": 67,
+      "total_grossing_value": 24453906.25,
+      "adjacency_list": [
+        {
+          "node": "The Sum of All Fears",
+          "weight": 24453906.25
+        }
+      ]
+    },
+    {
+      "name": "Jim Caviezel",
+      "age": 49,
+      "total_grossing_value": 39875000.0,
+      "adjacency_list": [
+        {
+          "node": "High Crimes",
+          "weight": 39875000.0
+        }
+      ]
+    },
+    {
+      "name": "Jim Carrey",
+      "age": 56,
+      "total_grossing_value": 16405729.166666666,
+      "adjacency_list": [
+        {
+          "node": "Bruce Almighty",
+          "weight": 16405729.166666666
+        }
+      ]
+    },
+    {
+      "name": "Jennifer Aniston",
+      "age": 49,
+      "total_grossing_value": 122411979.16666667,
+      "adjacency_list": [
+        {
+          "node": "Bruce Almighty",
+          "weight": 122411979.16666667
+        }
+      ]
+    },
+    {
+      "name": "Lisa Ann Walter",
+      "age": 54,
+      "total_grossing_value": 61836979.166666664,
+      "adjacency_list": [
+        {
+          "node": "Bruce Almighty",
+          "weight": 61836979.166666664
+        }
+      ]
+    },
+    {
+      "name": "Catherine Bell",
+      "age": 49,
+      "total_grossing_value": 243561979.16666666,
+      "adjacency_list": [
+        {
+          "node": "Bruce Almighty",
+          "weight": 243561979.16666666
+        }
+      ]
+    },
+    {
+      "name": "Steve Carell",
+      "age": 55,
+      "total_grossing_value": 31549479.166666668,
+      "adjacency_list": [
+        {
+          "node": "Bruce Almighty",
+          "weight": 31549479.166666668
+        }
+      ]
+    },
+    {
+      "name": "Hilary Swank",
+      "age": 43,
+      "total_grossing_value": 135500000.0,
+      "adjacency_list": [
+        {
+          "node": "Million Dollar Baby",
+          "weight": 135500000.0
+        }
+      ]
+    },
+    {
+      "name": "Bob Hoskins",
+      "age": 75,
+      "total_grossing_value": 14845833.333333334,
+      "adjacency_list": [
+        {
+          "node": "Unleashed",
+          "weight": 14845833.333333334
+        }
+      ]
+    },
+    {
+      "name": "Kerry Condon",
+      "age": 35,
+      "total_grossing_value": 27570833.333333332,
+      "adjacency_list": [
+        {
+          "node": "Unleashed",
+          "weight": 27570833.333333332
+        }
+      ]
+    },
+    {
+      "name": "Jennifer Lopez",
+      "age": 48,
+      "total_grossing_value": 11625000.0,
+      "adjacency_list": [
+        {
+          "node": "An Unfinished Life",
+          "weight": 11625000.0
+        }
+      ]
+    },
+    {
+      "name": "Christian Bale",
+      "age": 44,
+      "total_grossing_value": 46811542.96875,
+      "adjacency_list": [
+        {
+          "node": "Batman Begins",
+          "weight": 46811542.96875
+        }
+      ]
+    },
+    {
+      "name": "Michael Caine",
+      "age": 84,
+      "total_grossing_value": 401972.65625,
+      "adjacency_list": [
+        {
+          "node": "Batman Begins",
+          "weight": 401972.65625
+        }
+      ]
+    },
+    {
+      "name": "Liam Neeson",
+      "age": 65,
+      "total_grossing_value": 5883417.96875,
+      "adjacency_list": [
+        {
+          "node": "Batman Begins",
+          "weight": 5883417.96875
+        }
+      ]
+    },
+    {
+      "name": "Katie Holmes",
+      "age": 39,
+      "total_grossing_value": 187136542.96875,
+      "adjacency_list": [
+        {
+          "node": "Batman Begins",
+          "weight": 187136542.96875
+        }
+      ]
+    },
+    {
+      "name": "Gary Oldman",
+      "age": 59,
+      "total_grossing_value": 11730292.96875,
+      "adjacency_list": [
+        {
+          "node": "Batman Begins",
+          "weight": 11730292.96875
+        }
+      ]
+    },
+    {
+      "name": "Cillian Murphy",
+      "age": 41,
+      "total_grossing_value": 93586542.96875,
+      "adjacency_list": [
+        {
+          "node": "Batman Begins",
+          "weight": 93586542.96875
+        }
+      ]
+    },
+    {
+      "name": "Tom Wilkinson",
+      "age": 70,
+      "total_grossing_value": 2959980.46875,
+      "adjacency_list": [
+        {
+          "node": "Batman Begins",
+          "weight": 2959980.46875
+        }
+      ]
+    },
+    {
+      "name": "Rutger Hauer",
+      "age": 74,
+      "total_grossing_value": 1498261.71875,
+      "adjacency_list": [
+        {
+          "node": "Batman Begins",
+          "weight": 1498261.71875
+        }
+      ]
+    },
+    {
+      "name": "Ken Watanabe",
+      "age": 58,
+      "total_grossing_value": 23424042.96875,
+      "adjacency_list": [
+        {
+          "node": "Batman Begins",
+          "weight": 23424042.96875
+        }
+      ]
+    },
+    {
+      "name": "Lucy Liu",
+      "age": 49,
+      "total_grossing_value": 28501875.0,
+      "adjacency_list": [
+        {
+          "node": "Lucky Number Slevin",
+          "weight": 28501875.0
+        }
+      ]
+    },
+    {
+      "name": "Bruce Willis",
+      "age": 62,
+      "total_grossing_value": 7389375.0,
+      "adjacency_list": [
+        {
+          "node": "Lucky Number Slevin",
+          "weight": 7389375.0
+        }
+      ]
+    },
+    {
+      "name": "Ben Kingsley",
+      "age": 74,
+      "total_grossing_value": 3870625.0,
+      "adjacency_list": [
+        {
+          "node": "Lucky Number Slevin",
+          "weight": 3870625.0
+        }
+      ]
+    },
+    {
+      "name": "Stanley Tucci",
+      "age": 57,
+      "total_grossing_value": 14426875.0,
+      "adjacency_list": [
+        {
+          "node": "Lucky Number Slevin",
+          "weight": 14426875.0
+        }
+      ]
+    },
+    {
+      "name": "Paz Vega",
+      "age": 42,
+      "total_grossing_value": 757911.9166666666,
+      "adjacency_list": [
+        {
+          "node": "10 Items or Less",
+          "weight": 757911.9166666666
+        }
+      ]
+    },
+    {
+      "name": "Kumar Pallana",
+      "age": 99,
+      "total_grossing_value": 233203.66666666666,
+      "adjacency_list": [
+        {
+          "node": "10 Items or Less",
+          "weight": 233203.66666666666
+        }
+      ]
+    },
+    {
+      "name": "Lauren Graham",
+      "age": 50,
+      "total_grossing_value": 87151562.5,
+      "adjacency_list": [
+        {
+          "node": "Evan Almighty",
+          "weight": 87151562.5
+        }
+      ]
+    },
+    {
+      "name": "John Goodman",
+      "age": 65,
+      "total_grossing_value": 5870312.5,
+      "adjacency_list": [
+        {
+          "node": "Evan Almighty",
+          "weight": 5870312.5
+        }
+      ]
+    },
+    {
+      "name": "Wanda Sykes",
+      "age": 53,
+      "total_grossing_value": 43801562.5,
+      "adjacency_list": [
+        {
+          "node": "Evan Almighty",
+          "weight": 43801562.5
+        }
+      ]
+    },
+    {
+      "name": "John Michael Higgins",
+      "age": 55,
+      "total_grossing_value": 11289062.5,
+      "adjacency_list": [
+        {
+          "node": "Evan Almighty",
+          "weight": 11289062.5
+        }
+      ]
+    },
+    {
+      "name": "Molly Shannon",
+      "age": 53,
+      "total_grossing_value": 22126562.5,
+      "adjacency_list": [
+        {
+          "node": "Evan Almighty",
+          "weight": 22126562.5
+        }
+      ]
+    },
+    {
+      "name": "Casey Affleck",
+      "age": 42,
+      "total_grossing_value": 4341894.53125,
+      "adjacency_list": [
+        {
+          "node": "Gone, Baby, Gone",
+          "weight": 4341894.53125
+        }
+      ]
+    },
+    {
+      "name": "Michelle Monaghan",
+      "age": 41,
+      "total_grossing_value": 8666894.53125,
+      "adjacency_list": [
+        {
+          "node": "Gone, Baby, Gone",
+          "weight": 8666894.53125
+        }
+      ]
+    },
+    {
+      "name": "Ed Harris",
+      "age": 67,
+      "total_grossing_value": 287207.03125,
+      "adjacency_list": [
+        {
+          "node": "Gone, Baby, Gone",
+          "weight": 287207.03125
+        }
+      ]
+    },
+    {
+      "name": "Amy Ryan",
+      "age": 48,
+      "total_grossing_value": 2179394.53125,
+      "adjacency_list": [
+        {
+          "node": "Gone, Baby, Gone",
+          "weight": 2179394.53125
+        }
+      ]
+    },
+    {
+      "name": "Amy Madigan",
+      "age": 67,
+      "total_grossing_value": 557519.53125,
+      "adjacency_list": [
+        {
+          "node": "Gone, Baby, Gone",
+          "weight": 557519.53125
+        }
+      ]
+    },
+    {
+      "name": "Titus Welliver",
+      "age": 56,
+      "total_grossing_value": 1098144.53125,
+      "adjacency_list": [
+        {
+          "node": "Gone, Baby, Gone",
+          "weight": 1098144.53125
+        }
+      ]
+    },
+    {
+      "name": "Edi Gathegi",
+      "age": 38,
+      "total_grossing_value": 17316894.53125,
+      "adjacency_list": [
+        {
+          "node": "Gone, Baby, Gone",
+          "weight": 17316894.53125
+        }
+      ]
+    },
+    {
+      "name": "Jack Nicholson",
+      "age": 80,
+      "total_grossing_value": 109625000.0,
+      "adjacency_list": [
+        {
+          "node": "The Bucket List",
+          "weight": 109625000.0
+        }
+      ]
+    },
+    {
+      "name": "James McAvoy",
+      "age": 38,
+      "total_grossing_value": 171589062.5,
+      "adjacency_list": [
+        {
+          "node": "Wanted",
+          "weight": 171589062.5
+        }
+      ]
+    },
+    {
+      "name": "Angelina Jolie",
+      "age": 42,
+      "total_grossing_value": 86239062.5,
+      "adjacency_list": [
+        {
+          "node": "Wanted",
+          "weight": 86239062.5
+        }
+      ]
+    },
+    {
+      "name": "Terence Stamp",
+      "age": 79,
+      "total_grossing_value": 11557812.5,
+      "adjacency_list": [
+        {
+          "node": "Wanted",
+          "weight": 11557812.5
+        }
+      ]
+    },
+    {
+      "name": "Thomas Kretschmann",
+      "age": 55,
+      "total_grossing_value": 22226562.5,
+      "adjacency_list": [
+        {
+          "node": "Wanted",
+          "weight": 22226562.5
+        }
+      ]
+    },
+    {
+      "name": "Common",
+      "age": 45,
+      "total_grossing_value": 43564062.5,
+      "adjacency_list": [
+        {
+          "node": "Wanted",
+          "weight": 43564062.5
+        }
+      ]
+    },
+    {
+      "name": "Heath Ledger",
+      "age": 38,
+      "total_grossing_value": 544374999.9999999,
+      "adjacency_list": [
+        {
+          "node": "The Dark Knight",
+          "weight": 544374999.9999999
+        }
+      ]
+    },
+    {
+      "name": "Maggie Gyllenhaal",
+      "age": 40,
+      "total_grossing_value": 293124999.99999994,
+      "adjacency_list": [
+        {
+          "node": "The Dark Knight",
+          "weight": 293124999.99999994
+        }
+      ]
+    },
+    {
+      "name": "Karl Urban",
+      "age": 45,
+      "total_grossing_value": 102609375.0,
+      "adjacency_list": [
+        {
+          "node": "RED",
+          "weight": 102609375.0
+        }
+      ]
+    },
+    {
+      "name": "Mary-Louise Parker",
+      "age": 53,
+      "total_grossing_value": 52859375.0,
+      "adjacency_list": [
+        {
+          "node": "RED",
+          "weight": 52859375.0
+        }
+      ]
+    },
+    {
+      "name": "Helen Mirren",
+      "age": 72,
+      "total_grossing_value": 27984375.0,
+      "adjacency_list": [
+        {
+          "node": "RED",
+          "weight": 27984375.0
+        }
+      ]
+    },
+    {
+      "name": "Nathan Gamble",
+      "age": 20,
+      "total_grossing_value": 24574375.0,
+      "adjacency_list": [
+        {
+          "node": "Dolphin Tale",
+          "weight": 24574375.0
+        }
+      ]
+    },
+    {
+      "name": "Harry Connick, Jr",
+      "age": 50,
+      "total_grossing_value": 12586875.0,
+      "adjacency_list": [
+        {
+          "node": "Dolphin Tale",
+          "weight": 12586875.0
+        }
+      ]
+    },
+    {
+      "name": "Kris Kristofferson",
+      "age": 81,
+      "total_grossing_value": 3596250.0,
+      "adjacency_list": [
+        {
+          "node": "Dolphin Tale",
+          "weight": 3596250.0
+        }
+      ]
+    },
+    {
+      "name": "Cozi Zuehlsdorff",
+      "age": 19,
+      "total_grossing_value": 48549375.0,
+      "adjacency_list": [
+        {
+          "node": "Dolphin Tale",
+          "weight": 48549375.0
+        }
+      ]
+    },
+    {
+      "name": "Tom Hardy",
+      "age": 40,
+      "total_grossing_value": 288203125.0,
+      "adjacency_list": [
+        {
+          "node": "The Dark Knight Rises",
+          "weight": 288203125.0
+        }
+      ]
+    },
+    {
+      "name": "Marion Cotillard",
+      "age": 42,
+      "total_grossing_value": 152578125.0,
+      "adjacency_list": [
+        {
+          "node": "The Dark Knight Rises",
+          "weight": 152578125.0
+        }
+      ]
+    },
+    {
+      "name": "Joseph Gordon-Levitt",
+      "age": 37,
+      "total_grossing_value": 559453125.0,
+      "adjacency_list": [
+        {
+          "node": "The Dark Knight Rises",
+          "weight": 559453125.0
+        }
+      ]
+    },
+    {
+      "name": "Virginia Madsen",
+      "age": 56,
+      "total_grossing_value": 3249.619140625,
+      "adjacency_list": [
+        {
+          "node": "The Magic of Belle Isle",
+          "weight": 3249.619140625
+        }
+      ]
+    },
+    {
+      "name": "Emma Fuhrmann",
+      "age": 16,
+      "total_grossing_value": 25646.994140625,
+      "adjacency_list": [
+        {
+          "node": "The Magic of Belle Isle",
+          "weight": 25646.994140625
+        }
+      ]
+    },
+    {
+      "name": "Madeline Carroll",
+      "age": 21,
+      "total_grossing_value": 12848.494140625,
+      "adjacency_list": [
+        {
+          "node": "The Magic of Belle Isle",
+          "weight": 12848.494140625
+        }
+      ]
+    },
+    {
+      "name": "Kenan Thompson",
+      "age": 39,
+      "total_grossing_value": 6449.244140625,
+      "adjacency_list": [
+        {
+          "node": "The Magic of Belle Isle",
+          "weight": 6449.244140625
+        }
+      ]
+    },
+    {
+      "name": "Kevin Pollak",
+      "age": 60,
+      "total_grossing_value": 1649.806640625,
+      "adjacency_list": [
+        {
+          "node": "The Magic of Belle Isle",
+          "weight": 1649.806640625
+        }
+      ]
+    },
+    {
+      "name": "Fred Willard",
+      "age": 78,
+      "total_grossing_value": 849.900390625,
+      "adjacency_list": [
+        {
+          "node": "The Magic of Belle Isle",
+          "weight": 849.900390625
+        }
+      ]
+    },
+    {
+      "name": "Nicolette Pierini",
+      "age": 14,
+      "total_grossing_value": 51243.994140625,
+      "adjacency_list": [
+        {
+          "node": "The Magic of Belle Isle",
+          "weight": 51243.994140625
+        }
+      ]
+    },
+    {
+      "name": "Gerard Butler",
+      "age": 48,
+      "total_grossing_value": 10674435.763888888,
+      "adjacency_list": [
+        {
+          "node": "Olympus Has Fallen",
+          "weight": 10674435.763888888
+        }
+      ]
+    },
+    {
+      "name": "Angela Bassett",
+      "age": 59,
+      "total_grossing_value": 1366623.263888889,
+      "adjacency_list": [
+        {
+          "node": "Olympus Has Fallen",
+          "weight": 1366623.263888889
+        }
+      ]
+    },
+    {
+      "name": "Robert Forster",
+      "age": 76,
+      "total_grossing_value": 701779.5138888889,
+      "adjacency_list": [
+        {
+          "node": "Olympus Has Fallen",
+          "weight": 701779.5138888889
+        }
+      ]
+    },
+    {
+      "name": "Cole Hauser",
+      "age": 42,
+      "total_grossing_value": 85136935.7638889,
+      "adjacency_list": [
+        {
+          "node": "Olympus Has Fallen",
+          "weight": 85136935.7638889
+        }
+      ]
+    },
+    {
+      "name": "Melissa Leo",
+      "age": 57,
+      "total_grossing_value": 2696310.763888889,
+      "adjacency_list": [
+        {
+          "node": "Olympus Has Fallen",
+          "weight": 2696310.763888889
+        }
+      ]
+    },
+    {
+      "name": "Dylan McDermott",
+      "age": 56,
+      "total_grossing_value": 5355685.763888889,
+      "adjacency_list": [
+        {
+          "node": "Olympus Has Fallen",
+          "weight": 5355685.763888889
+        }
+      ]
+    },
+    {
+      "name": "Radha Mitchell",
+      "age": 44,
+      "total_grossing_value": 42586935.76388889,
+      "adjacency_list": [
+        {
+          "node": "Olympus Has Fallen",
+          "weight": 42586935.76388889
+        }
+      ]
+    },
+    {
+      "name": "Rick Yune",
+      "age": 46,
+      "total_grossing_value": 21311935.763888888,
+      "adjacency_list": [
+        {
+          "node": "Olympus Has Fallen",
+          "weight": 21311935.763888888
+        }
+      ]
+    },
+    {
+      "name": "Olga Kurylenko",
+      "age": 38,
+      "total_grossing_value": 76021875.0,
+      "adjacency_list": [
+        {
+          "node": "Oblivion",
+          "weight": 76021875.0
+        }
+      ]
+    },
+    {
+      "name": "Andrea Riseborough",
+      "age": 36,
+      "total_grossing_value": 147571875.0,
+      "adjacency_list": [
+        {
+          "node": "Oblivion",
+          "weight": 147571875.0
+        }
+      ]
+    },
+    {
+      "name": "Nikolaj Coster-Waldau",
+      "age": 47,
+      "total_grossing_value": 40246875.0,
+      "adjacency_list": [
+        {
+          "node": "Oblivion",
+          "weight": 40246875.0
+        }
+      ]
+    },
+    {
+      "name": "Jesse Eisenberg",
+      "age": 34,
+      "total_grossing_value": 88840885.41666667,
+      "adjacency_list": [
+        {
+          "node": "Now You See Me",
+          "weight": 88840885.41666667
+        }
+      ]
+    },
+    {
+      "name": "Mark Ruffalo",
+      "age": 50,
+      "total_grossing_value": 22897135.416666668,
+      "adjacency_list": [
+        {
+          "node": "Now You See Me",
+          "weight": 22897135.416666668
+        }
+      ]
+    },
+    {
+      "name": "Woody Harrelson",
+      "age": 56,
+      "total_grossing_value": 11906510.416666666,
+      "adjacency_list": [
+        {
+          "node": "Now You See Me",
+          "weight": 11906510.416666666
+        }
+      ]
+    },
+    {
+      "name": "Isla Fisher",
+      "age": 42,
+      "total_grossing_value": 44878385.416666664,
+      "adjacency_list": [
+        {
+          "node": "Now You See Me",
+          "weight": 44878385.416666664
+        }
+      ]
+    },
+    {
+      "name": "Dave Franco",
+      "age": 32,
+      "total_grossing_value": 176765885.41666666,
+      "adjacency_list": [
+        {
+          "node": "Now You See Me",
+          "weight": 176765885.41666666
+        }
+      ]
+    },
+    {
+      "name": "Robert De Niro",
+      "age": 74,
+      "total_grossing_value": 18900000.0,
+      "adjacency_list": [
+        {
+          "node": "Last Vegas",
+          "weight": 18900000.0
+        }
+      ]
+    },
+    {
+      "name": "Kevin Kline",
+      "age": 70,
+      "total_grossing_value": 35700000.0,
+      "adjacency_list": [
+        {
+          "node": "Last Vegas",
+          "weight": 35700000.0
+        }
+      ]
+    },
+    {
+      "name": "Mary Steenburgen",
+      "age": 65,
+      "total_grossing_value": 69300000.0,
+      "adjacency_list": [
+        {
+          "node": "Last Vegas",
+          "weight": 69300000.0
+        }
+      ]
+    },
+    {
+      "name": "Chris Pratt",
+      "age": 38,
+      "total_grossing_value": 117729492.1875,
+      "adjacency_list": [
+        {
+          "node": "The Lego Movie",
+          "weight": 117729492.1875
+        }
+      ]
+    },
+    {
+      "name": "Will Ferrell",
+      "age": 50,
+      "total_grossing_value": 3901367.1875,
+      "adjacency_list": [
+        {
+          "node": "The Lego Movie",
+          "weight": 3901367.1875
+        }
+      ]
+    },
+    {
+      "name": "Elizabeth Banks",
+      "age": 44,
+      "total_grossing_value": 29604492.1875,
+      "adjacency_list": [
+        {
+          "node": "The Lego Movie",
+          "weight": 29604492.1875
+        }
+      ]
+    },
+    {
+      "name": "Will Arnett",
+      "age": 47,
+      "total_grossing_value": 7573242.1875,
+      "adjacency_list": [
+        {
+          "node": "The Lego Movie",
+          "weight": 7573242.1875
+        }
+      ]
+    },
+    {
+      "name": "Nick Offerman",
+      "age": 47,
+      "total_grossing_value": 14916992.1875,
+      "adjacency_list": [
+        {
+          "node": "The Lego Movie",
+          "weight": 14916992.1875
+        }
+      ]
+    },
+    {
+      "name": "Alison Brie",
+      "age": 35,
+      "total_grossing_value": 235229492.1875,
+      "adjacency_list": [
+        {
+          "node": "The Lego Movie",
+          "weight": 235229492.1875
+        }
+      ]
+    },
+    {
+      "name": "Charlie Day",
+      "age": 42,
+      "total_grossing_value": 58979492.1875,
+      "adjacency_list": [
+        {
+          "node": "The Lego Movie",
+          "weight": 58979492.1875
+        }
+      ]
+    },
+    {
+      "name": "Rebecca Hall",
+      "age": 35,
+      "total_grossing_value": 53109375.0,
+      "adjacency_list": [
+        {
+          "node": "Transcendence",
+          "weight": 53109375.0
+        }
+      ]
+    },
+    {
+      "name": "Kate Mara",
+      "age": 35,
+      "total_grossing_value": 27359375.0,
+      "adjacency_list": [
+        {
+          "node": "Transcendence",
+          "weight": 27359375.0
+        }
+      ]
+    },
+    {
+      "name": "Paul Bettany",
+      "age": 46,
+      "total_grossing_value": 14484375.0,
+      "adjacency_list": [
+        {
+          "node": "Transcendence",
+          "weight": 14484375.0
+        }
+      ]
+    },
+    {
+      "name": "Choi Min-sik",
+      "age": 56,
+      "total_grossing_value": 135158333.33333334,
+      "adjacency_list": [
+        {
+          "node": "Lucy",
+          "weight": 135158333.33333334
+        }
+      ]
+    },
+    {
+      "name": "Amr Waked",
+      "age": 44,
+      "total_grossing_value": 251008333.33333334,
+      "adjacency_list": [
+        {
+          "node": "Lucy",
+          "weight": 251008333.33333334
+        }
+      ]
+    },
+    {
+      "name": "Harry Connick Jr.",
+      "age": 50,
+      "total_grossing_value": 36125000.0,
+      "adjacency_list": [
+        {
+          "node": "Dolphin Tale 2",
+          "weight": 36125000.0
+        }
+      ]
+    },
+    {
+      "name": "James Purefoy",
+      "age": 53,
+      "total_grossing_value": 65085.0,
+      "adjacency_list": [
+        {
+          "node": "Momentum",
+          "weight": 65085.0
+        }
+      ]
+    },
+    {
+      "name": "Mark Wahlberg",
+      "age": 46,
+      "total_grossing_value": 28441875.0,
+      "adjacency_list": [
+        {
+          "node": "Ted 2",
+          "weight": 28441875.0
+        }
+      ]
+    },
+    {
+      "name": "Amanda Seyfried",
+      "age": 32,
+      "total_grossing_value": 109704375.0,
+      "adjacency_list": [
+        {
+          "node": "Ted 2",
+          "weight": 109704375.0
+        }
+      ]
+    },
+    {
+      "name": "Giovanni Ribisi",
+      "age": 43,
+      "total_grossing_value": 55529375.0,
+      "adjacency_list": [
+        {
+          "node": "Ted 2",
+          "weight": 55529375.0
+        }
+      ]
+    },
+    {
+      "name": "John Slattery",
+      "age": 55,
+      "total_grossing_value": 14898125.0,
+      "adjacency_list": [
+        {
+          "node": "Ted 2",
+          "weight": 14898125.0
+        }
+      ]
+    },
+    {
+      "name": "Alon Moni Aboutboul",
+      "age": 52,
+      "total_grossing_value": 111420833.33333333,
+      "adjacency_list": [
+        {
+          "node": "London Has Fallen",
+          "weight": 111420833.33333333
+        }
+      ]
+    },
+    {
+      "name": "Jackie Earle Haley",
+      "age": 56,
+      "total_grossing_value": 59995833.333333336,
+      "adjacency_list": [
+        {
+          "node": "London Has Fallen",
+          "weight": 59995833.333333336
+        }
+      ]
+    },
+    {
+      "name": "Daniel Radcliffe",
+      "age": 28,
+      "total_grossing_value": 169543125.0,
+      "adjacency_list": [
+        {
+          "node": "Now You See Me 2",
+          "weight": 169543125.0
+        }
+      ]
+    },
+    {
+      "name": "Lizzy Caplan",
+      "age": 35,
+      "total_grossing_value": 85818125.0,
+      "adjacency_list": [
+        {
+          "node": "Now You See Me 2",
+          "weight": 85818125.0
+        }
+      ]
+    },
+    {
+      "name": "Jay Chou",
+      "age": 39,
+      "total_grossing_value": 43955625.0,
+      "adjacency_list": [
+        {
+          "node": "Now You See Me 2",
+          "weight": 43955625.0
+        }
+      ]
+    },
+    {
+      "name": "Sanaa Lathan",
+      "age": 46,
+      "total_grossing_value": 23024375.0,
+      "adjacency_list": [
+        {
+          "node": "Now You See Me 2",
+          "weight": 23024375.0
+        }
+      ]
+    },
+    {
+      "name": "Alan Arkin",
+      "age": 83,
+      "total_grossing_value": 1547656.25,
+      "adjacency_list": [
+        {
+          "node": "Going In Style",
+          "weight": 1547656.25
+        }
+      ]
+    },
+    {
+      "name": "Joey King",
+      "age": 18,
+      "total_grossing_value": 42671093.75,
+      "adjacency_list": [
+        {
+          "node": "Going In Style",
+          "weight": 42671093.75
+        }
+      ]
+    },
+    {
+      "name": "Matt Dillon",
+      "age": 54,
+      "total_grossing_value": 21446093.75,
+      "adjacency_list": [
+        {
+          "node": "Going In Style",
+          "weight": 21446093.75
+        }
+      ]
+    },
+    {
+      "name": "Christopher Lloyd",
+      "age": 79,
+      "total_grossing_value": 5527343.75,
+      "adjacency_list": [
+        {
+          "node": "Going In Style",
+          "weight": 5527343.75
+        }
+      ]
+    },
+    {
+      "name": "Ann-Margret",
+      "age": 76,
+      "total_grossing_value": 10833593.75,
+      "adjacency_list": [
+        {
+          "node": "Going In Style",
+          "weight": 10833593.75
+        }
+      ]
+    },
+    {
+      "name": "Steve McQueen",
+      "age": 87,
+      "total_grossing_value": 2333333.3333333335,
+      "adjacency_list": [
+        {
+          "node": "The Thomas Crown Affair",
+          "weight": 2333333.3333333335
+        }
+      ]
+    },
+    {
+      "name": "Faye Dunaway",
+      "age": 77,
+      "total_grossing_value": 7583333.333333333,
+      "adjacency_list": [
+        {
+          "node": "The Thomas Crown Affair",
+          "weight": 7583333.333333333
+        }
+      ]
+    },
+    {
+      "name": "Dean Martin",
+      "age": 100,
+      "total_grossing_value": 273437.5,
+      "adjacency_list": [
+        {
+          "node": "5 Card Stud",
+          "weight": 273437.5
+        }
+      ]
+    },
+    {
+      "name": "Robert Mitchum",
+      "age": 100,
+      "total_grossing_value": 492187.5,
+      "adjacency_list": [
+        {
+          "node": "5 Card Stud",
+          "weight": 492187.5
+        }
+      ]
+    },
+    {
+      "name": "Inger Stevens",
+      "age": 83,
+      "total_grossing_value": 929687.5,
+      "adjacency_list": [
+        {
+          "node": "5 Card Stud",
+          "weight": 929687.5
+        }
+      ]
+    },
+    {
+      "name": "Roscoe Lee Browne",
+      "age": 95,
+      "total_grossing_value": 42075.892857142855,
+      "adjacency_list": [
+        {
+          "node": "The Liberation of L.B. Jones",
+          "weight": 42075.892857142855
+        }
+      ]
+    },
+    {
+      "name": "Lee J. Cobb",
+      "age": 106,
+      "total_grossing_value": 11607.142857142857,
+      "adjacency_list": [
+        {
+          "node": "The Liberation of L.B. Jones",
+          "weight": 11607.142857142857
+        }
+      ]
+    },
+    {
+      "name": "Lee Majors",
+      "age": 78,
+      "total_grossing_value": 163950.89285714287,
+      "adjacency_list": [
+        {
+          "node": "The Liberation of L.B. Jones",
+          "weight": 163950.89285714287
+        }
+      ]
+    },
+    {
+      "name": "Lola Falana",
+      "age": 75,
+      "total_grossing_value": 326450.89285714284,
+      "adjacency_list": [
+        {
+          "node": "The Liberation of L.B. Jones",
+          "weight": 326450.89285714284
+        }
+      ]
+    },
+    {
+      "name": "Eve McVeagh",
+      "age": 98,
+      "total_grossing_value": 21763.39285714286,
+      "adjacency_list": [
+        {
+          "node": "The Liberation of L.B. Jones",
+          "weight": 21763.39285714286
+        }
+      ]
+    },
+    {
+      "name": "Barbara Hershey",
+      "age": 70,
+      "total_grossing_value": 651450.8928571428,
+      "adjacency_list": [
+        {
+          "node": "The Liberation of L.B. Jones",
+          "weight": 651450.8928571428
+        }
+      ]
+    },
+    {
+      "name": "Roger Moore",
+      "age": 90,
+      "total_grossing_value": 22753125.0,
+      "adjacency_list": [
+        {
+          "node": "Live and Let Die",
+          "weight": 22753125.0
+        }
+      ]
+    },
+    {
+      "name": "Jane Seymour",
+      "age": 67,
+      "total_grossing_value": 83428125.0,
+      "adjacency_list": [
+        {
+          "node": "Live and Let Die",
+          "weight": 83428125.0
+        }
+      ]
+    },
+    {
+      "name": "Julius Harris",
+      "age": 94,
+      "total_grossing_value": 12640625.0,
+      "adjacency_list": [
+        {
+          "node": "Live and Let Die",
+          "weight": 12640625.0
+        }
+      ]
+    },
+    {
+      "name": "Isaac Hayes",
+      "age": 75,
+      "total_grossing_value": 1207916.6666666667,
+      "adjacency_list": [
+        {
+          "node": "Truck Turner",
+          "weight": 1207916.6666666667
+        }
+      ]
+    },
+    {
+      "name": "Nichelle Nichols",
+      "age": 85,
+      "total_grossing_value": 371666.6666666667,
+      "adjacency_list": [
+        {
+          "node": "Truck Turner",
+          "weight": 371666.6666666667
+        }
+      ]
+    },
+    {
+      "name": "Tom Skerritt",
+      "age": 84,
+      "total_grossing_value": 3551302.0833333335,
+      "adjacency_list": [
+        {
+          "node": "Alien",
+          "weight": 3551302.0833333335
+        }
+      ]
+    },
+    {
+      "name": "Sigourney Weaver",
+      "age": 68,
+      "total_grossing_value": 52723177.083333336,
+      "adjacency_list": [
+        {
+          "node": "Alien",
+          "weight": 52723177.083333336
+        }
+      ]
+    },
+    {
+      "name": "Veronica Cartwright",
+      "age": 68,
+      "total_grossing_value": 26498177.083333332,
+      "adjacency_list": [
+        {
+          "node": "Alien",
+          "weight": 26498177.083333332
+        }
+      ]
+    },
+    {
+      "name": "John Hurt",
+      "age": 78,
+      "total_grossing_value": 13385677.083333334,
+      "adjacency_list": [
+        {
+          "node": "Alien",
+          "weight": 13385677.083333334
+        }
+      ]
+    },
+    {
+      "name": "Ian Holm",
+      "age": 86,
+      "total_grossing_value": 1912239.5833333333,
+      "adjacency_list": [
+        {
+          "node": "Alien",
+          "weight": 1912239.5833333333
+        }
+      ]
+    },
+    {
+      "name": "Michael Sarrazin",
+      "age": 77,
+      "total_grossing_value": 2097467.5,
+      "adjacency_list": [
+        {
+          "node": "Fighting Back",
+          "weight": 2097467.5
+        }
+      ]
+    },
+    {
+      "name": "Hal Holbrook",
+      "age": 93,
+      "total_grossing_value": 933333.3333333334,
+      "adjacency_list": [
+        {
+          "node": "The Star Chamber",
+          "weight": 933333.3333333334
+        }
+      ]
+    },
+    {
+      "name": "Sharon Gless",
+      "age": 74,
+      "total_grossing_value": 3033333.3333333335,
+      "adjacency_list": [
+        {
+          "node": "The Star Chamber",
+          "weight": 3033333.3333333335
+        }
+      ]
+    },
+    {
+      "name": "Donald Pleasence",
+      "age": 98,
+      "total_grossing_value": 1667469.5,
+      "adjacency_list": [
+        {
+          "node": "Terror in the Aisles",
+          "weight": 1667469.5
+        }
+      ]
+    },
+    {
+      "name": "Nancy Allen",
+      "age": 67,
+      "total_grossing_value": 5419275.875,
+      "adjacency_list": [
+        {
+          "node": "Terror in the Aisles",
+          "weight": 5419275.875
+        }
+      ]
+    },
+    {
+      "name": "Sam Waterston",
+      "age": 77,
+      "total_grossing_value": 269735.203125,
+      "adjacency_list": [
+        {
+          "node": "Warning Sign",
+          "weight": 269735.203125
+        }
+      ]
+    },
+    {
+      "name": "Kathleen Quinlan",
+      "age": 63,
+      "total_grossing_value": 989029.078125,
+      "adjacency_list": [
+        {
+          "node": "Warning Sign",
+          "weight": 989029.078125
+        }
+      ]
+    },
+    {
+      "name": "Jeffrey DeMunn",
+      "age": 70,
+      "total_grossing_value": 509499.828125,
+      "adjacency_list": [
+        {
+          "node": "Warning Sign",
+          "weight": 509499.828125
+        }
+      ]
+    },
+    {
+      "name": "Arnold Schwarzenegger",
+      "age": 70,
+      "total_grossing_value": 10093750.0,
+      "adjacency_list": [
+        {
+          "node": "The Running Man",
+          "weight": 10093750.0
+        }
+      ]
+    },
+    {
+      "name": "María Conchita Alonso",
+      "age": 62,
+      "total_grossing_value": 19593750.0,
+      "adjacency_list": [
+        {
+          "node": "The Running Man",
+          "weight": 19593750.0
+        }
+      ]
+    },
+    {
+      "name": "Richard Dawson",
+      "age": 85,
+      "total_grossing_value": 2968750.0,
+      "adjacency_list": [
+        {
+          "node": "The Running Man",
+          "weight": 2968750.0
+        }
+      ]
+    },
+    {
+      "name": "Charles Grodin",
+      "age": 82,
+      "total_grossing_value": 30600000.0,
+      "adjacency_list": [
+        {
+          "node": "Midnight Run",
+          "weight": 30600000.0
+        }
+      ]
+    },
+    {
+      "name": "Robert Englund",
+      "age": 70,
+      "total_grossing_value": 2399375.0,
+      "adjacency_list": [
+        {
+          "node": "Freddy's Dead: The Final Nightmare",
+          "weight": 2399375.0
+        }
+      ]
+    },
+    {
+      "name": "Lisa Zane",
+      "age": 56,
+      "total_grossing_value": 4580625.0,
+      "adjacency_list": [
+        {
+          "node": "Freddy's Dead: The Final Nightmare",
+          "weight": 4580625.0
+        }
+      ]
+    },
+    {
+      "name": "Shon Greenblatt",
+      "age": 50,
+      "total_grossing_value": 17668125.0,
+      "adjacency_list": [
+        {
+          "node": "Freddy's Dead: The Final Nightmare",
+          "weight": 17668125.0
+        }
+      ]
+    },
+    {
+      "name": "Lezlie Deane",
+      "age": 53,
+      "total_grossing_value": 8943125.0,
+      "adjacency_list": [
+        {
+          "node": "Freddy's Dead: The Final Nightmare",
+          "weight": 8943125.0
+        }
+      ]
+    },
+    {
+      "name": "Donald Sutherland",
+      "age": 82,
+      "total_grossing_value": 1441173.6666666667,
+      "adjacency_list": [
+        {
+          "node": "The Puppet Masters",
+          "weight": 1441173.6666666667
+        }
+      ]
+    },
+    {
+      "name": "Julie Warner",
+      "age": 53,
+      "total_grossing_value": 4683814.416666667,
+      "adjacency_list": [
+        {
+          "node": "The Puppet Masters",
+          "weight": 4683814.416666667
+        }
+      ]
+    },
+    {
+      "name": "Stephen Dillane",
+      "age": 60,
+      "total_grossing_value": 5795833.333333333,
+      "adjacency_list": [
+        {
+          "node": "Two If by Sea",
+          "weight": 5795833.333333333
+        }
+      ]
+    },
+    {
+      "name": "Mike Starr",
+      "age": 67,
+      "total_grossing_value": 3120833.3333333335,
+      "adjacency_list": [
+        {
+          "node": "Two If by Sea",
+          "weight": 3120833.3333333335
+        }
+      ]
+    },
+    {
+      "name": "Larry the Cable Guy",
+      "age": 55,
+      "total_grossing_value": 546213.28125,
+      "adjacency_list": [
+        {
+          "node": "Witless Protection",
+          "weight": 546213.28125
+        }
+      ]
+    },
+    {
+      "name": "Jenny McCarthy",
+      "age": 45,
+      "total_grossing_value": 1066416.40625,
+      "adjacency_list": [
+        {
+          "node": "Witless Protection",
+          "weight": 1066416.40625
+        }
+      ]
+    },
+    {
+      "name": "Ivana Miličević",
+      "age": 43,
+      "total_grossing_value": 2106822.65625,
+      "adjacency_list": [
+        {
+          "node": "Witless Protection",
+          "weight": 2106822.65625
+        }
+      ]
+    },
+    {
+      "name": "Joe Mantegna",
+      "age": 70,
+      "total_grossing_value": 286111.71875,
+      "adjacency_list": [
+        {
+          "node": "Witless Protection",
+          "weight": 286111.71875
+        }
+      ]
+    },
+    {
+      "name": "Blythe Danner",
+      "age": 75,
+      "total_grossing_value": 783333.3333333334,
+      "adjacency_list": [
+        {
+          "node": "The Great Santini",
+          "weight": 783333.3333333334
+        }
+      ]
+    },
+    {
+      "name": "Michael O'Keefe",
+      "age": 62,
+      "total_grossing_value": 2545833.3333333335,
+      "adjacency_list": [
+        {
+          "node": "The Great Santini",
+          "weight": 2545833.3333333335
+        }
+      ]
+    },
+    {
+      "name": "Bette Midler",
+      "age": 72,
+      "total_grossing_value": 8516666.666666666,
+      "adjacency_list": [
+        {
+          "node": "The Rose",
+          "weight": 8516666.666666666
+        }
+      ]
+    },
+    {
+      "name": "Frederic Forrest",
+      "age": 81,
+      "total_grossing_value": 4866666.666666667,
+      "adjacency_list": [
+        {
+          "node": "The Rose",
+          "weight": 4866666.666666667
+        }
+      ]
+    },
+    {
+      "name": "Sally Field",
+      "age": 71,
+      "total_grossing_value": 1966666.6666666667,
+      "adjacency_list": [
+        {
+          "node": "Back Roads",
+          "weight": 1966666.6666666667
+        }
+      ]
+    },
+    {
+      "name": "Tommy Lee Jones",
+      "age": 71,
+      "total_grossing_value": 3441666.6666666665,
+      "adjacency_list": [
+        {
+          "node": "Back Roads",
+          "weight": 3441666.6666666665
+        }
+      ]
+    },
+    {
+      "name": "Robert Hays",
+      "age": 70,
+      "total_grossing_value": 2215737.042410714,
+      "adjacency_list": [
+        {
+          "node": "Take This Job and Shove It",
+          "weight": 2215737.042410714
+        }
+      ]
+    },
+    {
+      "name": "Art Carney",
+      "age": 99,
+      "total_grossing_value": 294124.38616071426,
+      "adjacency_list": [
+        {
+          "node": "Take This Job and Shove It",
+          "weight": 294124.38616071426
+        }
+      ]
+    },
+    {
+      "name": "Tim Thomerson",
+      "age": 71,
+      "total_grossing_value": 1117672.6674107143,
+      "adjacency_list": [
+        {
+          "node": "Take This Job and Shove It",
+          "weight": 1117672.6674107143
+        }
+      ]
+    },
+    {
+      "name": "Martin Mull",
+      "age": 74,
+      "total_grossing_value": 568640.4799107143,
+      "adjacency_list": [
+        {
+          "node": "Take This Job and Shove It",
+          "weight": 568640.4799107143
+        }
+      ]
+    },
+    {
+      "name": "Eddie Albert",
+      "age": 111,
+      "total_grossing_value": 156866.3392857143,
+      "adjacency_list": [
+        {
+          "node": "Take This Job and Shove It",
+          "weight": 156866.3392857143
+        }
+      ]
+    },
+    {
+      "name": "Penelope Milford",
+      "age": 69,
+      "total_grossing_value": 4411865.792410715,
+      "adjacency_list": [
+        {
+          "node": "Take This Job and Shove It",
+          "weight": 4411865.792410715
+        }
+      ]
+    },
+    {
+      "name": "Richard Gere",
+      "age": 68,
+      "total_grossing_value": 18421875.0,
+      "adjacency_list": [
+        {
+          "node": "An Officer and a Gentleman",
+          "weight": 18421875.0
+        }
+      ]
+    },
+    {
+      "name": "Debra Winger",
+      "age": 62,
+      "total_grossing_value": 67546875.0,
+      "adjacency_list": [
+        {
+          "node": "An Officer and a Gentleman",
+          "weight": 67546875.0
+        }
+      ]
+    },
+    {
+      "name": "Louis Gossett Jr.",
+      "age": 81,
+      "total_grossing_value": 10234375.0,
+      "adjacency_list": [
+        {
+          "node": "An Officer and a Gentleman",
+          "weight": 10234375.0
+        }
+      ]
+    },
+    {
+      "name": "Robert Prosky",
+      "age": 87,
+      "total_grossing_value": 3437912.0416666665,
+      "adjacency_list": [
+        {
+          "node": "The Lords of Discipline",
+          "weight": 3437912.0416666665
+        }
+      ]
+    },
+    {
+      "name": "G. D. Spradlin",
+      "age": 97,
+      "total_grossing_value": 1964521.1666666667,
+      "adjacency_list": [
+        {
+          "node": "The Lords of Discipline",
+          "weight": 1964521.1666666667
+        }
+      ]
+    },
+    {
+      "name": "Dianne Wiest",
+      "age": 69,
+      "total_grossing_value": 56798.25,
+      "adjacency_list": [
+        {
+          "node": "Independence Day",
+          "weight": 56798.25
+        }
+      ]
+    },
+    {
+      "name": "Drew Barrymore",
+      "age": 43,
+      "total_grossing_value": 8594531.25,
+      "adjacency_list": [
+        {
+          "node": "Firestarter",
+          "weight": 8594531.25
+        }
+      ]
+    },
+    {
+      "name": "Freddie Jones",
+      "age": 90,
+      "total_grossing_value": 311718.75,
+      "adjacency_list": [
+        {
+          "node": "Firestarter",
+          "weight": 311718.75
+        }
+      ]
+    },
+    {
+      "name": "Heather Locklear",
+      "age": 56,
+      "total_grossing_value": 4319531.25,
+      "adjacency_list": [
+        {
+          "node": "Firestarter",
+          "weight": 4319531.25
+        }
+      ]
+    },
+    {
+      "name": "Martin Sheen",
+      "age": 77,
+      "total_grossing_value": 1113281.25,
+      "adjacency_list": [
+        {
+          "node": "Firestarter",
+          "weight": 1113281.25
+        }
+      ]
+    },
+    {
+      "name": "Louise Fletcher",
+      "age": 83,
+      "total_grossing_value": 578906.25,
+      "adjacency_list": [
+        {
+          "node": "Firestarter",
+          "weight": 578906.25
+        }
+      ]
+    },
+    {
+      "name": "Harvey Keitel",
+      "age": 78,
+      "total_grossing_value": 375000.0,
+      "adjacency_list": [
+        {
+          "node": "The Two Jakes",
+          "weight": 375000.0
+        }
+      ]
+    },
+    {
+      "name": "Meg Tilly",
+      "age": 58,
+      "total_grossing_value": 5062500.0,
+      "adjacency_list": [
+        {
+          "node": "The Two Jakes",
+          "weight": 5062500.0
+        }
+      ]
+    },
+    {
+      "name": "Madeleine Stowe",
+      "age": 59,
+      "total_grossing_value": 2562500.0,
+      "adjacency_list": [
+        {
+          "node": "The Two Jakes",
+          "weight": 2562500.0
+        }
+      ]
+    },
+    {
+      "name": "Rubén Blades",
+      "age": 69,
+      "total_grossing_value": 687500.0,
+      "adjacency_list": [
+        {
+          "node": "The Two Jakes",
+          "weight": 687500.0
+        }
+      ]
+    },
+    {
+      "name": "Charlie Sheen",
+      "age": 52,
+      "total_grossing_value": 1917127.2130859375,
+      "adjacency_list": [
+        {
+          "node": "Major League II",
+          "weight": 1917127.2130859375
+        }
+      ]
+    },
+    {
+      "name": "Tom Berenger",
+      "age": 68,
+      "total_grossing_value": 122624.3615234375,
+      "adjacency_list": [
+        {
+          "node": "Major League II",
+          "weight": 122624.3615234375
+        }
+      ]
+    },
+    {
+      "name": "Corbin Bernsen",
+      "age": 63,
+      "total_grossing_value": 481524.9318359375,
+      "adjacency_list": [
+        {
+          "node": "Major League II",
+          "weight": 481524.9318359375
+        }
+      ]
+    },
+    {
+      "name": "Dennis Haysbert",
+      "age": 63,
+      "total_grossing_value": 960059.0255859375,
+      "adjacency_list": [
+        {
+          "node": "Major League II",
+          "weight": 960059.0255859375
+        }
+      ]
+    },
+    {
+      "name": "James Gammon",
+      "age": 77,
+      "total_grossing_value": 32899.2189453125,
+      "adjacency_list": [
+        {
+          "node": "Major League II",
+          "weight": 32899.2189453125
+        }
+      ]
+    },
+    {
+      "name": "Omar Epps",
+      "age": 44,
+      "total_grossing_value": 15316081.838085938,
+      "adjacency_list": [
+        {
+          "node": "Major League II",
+          "weight": 15316081.838085938
+        }
+      ]
+    },
+    {
+      "name": "Eric Bruskotter",
+      "age": 51,
+      "total_grossing_value": 3831263.5880859373,
+      "adjacency_list": [
+        {
+          "node": "Major League II",
+          "weight": 3831263.5880859373
+        }
+      ]
+    },
+    {
+      "name": "Michelle Burke",
+      "age": 47,
+      "total_grossing_value": 7659536.338085937,
+      "adjacency_list": [
+        {
+          "node": "Major League II",
+          "weight": 7659536.338085937
+        }
+      ]
+    },
+    {
+      "name": "Margaret Whitton",
+      "age": 68,
+      "total_grossing_value": 62807.5998046875,
+      "adjacency_list": [
+        {
+          "node": "Major League II",
+          "weight": 62807.5998046875
+        }
+      ]
+    },
+    {
+      "name": "Pamela Anderson",
+      "age": 50,
+      "total_grossing_value": 19096250.875,
+      "adjacency_list": [
+        {
+          "node": "Raw Justice",
+          "weight": 19096250.875
+        }
+      ]
+    },
+    {
+      "name": "Stacy Keach",
+      "age": 76,
+      "total_grossing_value": 5875769.5,
+      "adjacency_list": [
+        {
+          "node": "Raw Justice",
+          "weight": 5875769.5
+        }
+      ]
+    },
+    {
+      "name": "Hal Scardino",
+      "age": 33,
+      "total_grossing_value": 17942968.75,
+      "adjacency_list": [
+        {
+          "node": "The Indian in the Cupboard",
+          "weight": 17942968.75
+        }
+      ]
+    },
+    {
+      "name": "Litefoot",
+      "age": 48,
+      "total_grossing_value": 9017968.75,
+      "adjacency_list": [
+        {
+          "node": "The Indian in the Cupboard",
+          "weight": 9017968.75
+        }
+      ]
+    },
+    {
+      "name": "Lindsay Crouse",
+      "age": 69,
+      "total_grossing_value": 1208593.75,
+      "adjacency_list": [
+        {
+          "node": "The Indian in the Cupboard",
+          "weight": 1208593.75
+        }
+      ]
+    },
+    {
+      "name": "Richard Jenkins",
+      "age": 70,
+      "total_grossing_value": 650781.25,
+      "adjacency_list": [
+        {
+          "node": "The Indian in the Cupboard",
+          "weight": 650781.25
+        }
+      ]
+    },
+    {
+      "name": "Steve Coogan",
+      "age": 52,
+      "total_grossing_value": 4555468.75,
+      "adjacency_list": [
+        {
+          "node": "The Indian in the Cupboard",
+          "weight": 4555468.75
+        }
+      ]
+    },
+    {
+      "name": "Anna Chlumsky",
+      "age": 37,
+      "total_grossing_value": 3108750.046875,
+      "adjacency_list": [
+        {
+          "node": "Gold Diggers: The Secret of Bear Mountain",
+          "weight": 3108750.046875
+        }
+      ]
+    },
+    {
+      "name": "Christina Ricci",
+      "age": 38,
+      "total_grossing_value": 1601477.296875,
+      "adjacency_list": [
+        {
+          "node": "Gold Diggers: The Secret of Bear Mountain",
+          "weight": 1601477.296875
+        }
+      ]
+    },
+    {
+      "name": "Diana Scarwid",
+      "age": 62,
+      "total_grossing_value": 847840.921875,
+      "adjacency_list": [
+        {
+          "node": "Gold Diggers: The Secret of Bear Mountain",
+          "weight": 847840.921875
+        }
+      ]
+    },
+    {
+      "name": "Bill Paxton",
+      "age": 62,
+      "total_grossing_value": 4299479.166666667,
+      "adjacency_list": [
+        {
+          "node": "U-571",
+          "weight": 4299479.166666667
+        }
+      ]
+    },
+    {
+      "name": "Jon Bon Jovi",
+      "age": 55,
+      "total_grossing_value": 8268229.166666667,
+      "adjacency_list": [
+        {
+          "node": "U-571",
+          "weight": 8268229.166666667
+        }
+      ]
+    },
+    {
+      "name": "Jake Weber",
+      "age": 54,
+      "total_grossing_value": 16205729.166666666,
+      "adjacency_list": [
+        {
+          "node": "U-571",
+          "weight": 16205729.166666666
+        }
+      ]
+    },
+    {
+      "name": "Erik Palladino",
+      "age": 49,
+      "total_grossing_value": 32080729.166666668,
+      "adjacency_list": [
+        {
+          "node": "U-571",
+          "weight": 32080729.166666668
+        }
+      ]
+    },
+    {
+      "name": "Matthew Settle",
+      "age": 48,
+      "total_grossing_value": 63830729.166666664,
+      "adjacency_list": [
+        {
+          "node": "U-571",
+          "weight": 63830729.166666664
+        }
+      ]
+    },
+    {
+      "name": "Cuba Gooding Jr.",
+      "age": 50,
+      "total_grossing_value": 5360904.622395833,
+      "adjacency_list": [
+        {
+          "node": "Men of Honor",
+          "weight": 5360904.622395833
+        }
+      ]
+    },
+    {
+      "name": "Michael Rapaport",
+      "age": 47,
+      "total_grossing_value": 20800309.934895832,
+      "adjacency_list": [
+        {
+          "node": "Men of Honor",
+          "weight": 20800309.934895832
+        }
+      ]
+    },
+    {
+      "name": "Powers Boothe",
+      "age": 69,
+      "total_grossing_value": 1501053.2942708333,
+      "adjacency_list": [
+        {
+          "node": "Men of Honor",
+          "weight": 1501053.2942708333
+        }
+      ]
+    },
+    {
+      "name": "Aunjanue Ellis",
+      "age": 49,
+      "total_grossing_value": 10507373.059895834,
+      "adjacency_list": [
+        {
+          "node": "Men of Honor",
+          "weight": 10507373.059895834
+        }
+      ]
+    },
+    {
+      "name": "Charlize Theron",
+      "age": 42,
+      "total_grossing_value": 41386183.684895836,
+      "adjacency_list": [
+        {
+          "node": "Men of Honor",
+          "weight": 41386183.684895836
+        }
+      ]
+    },
+    {
+      "name": "Owen Wilson",
+      "age": 49,
+      "total_grossing_value": 23575000.0,
+      "adjacency_list": [
+        {
+          "node": "Behind Enemy Lines",
+          "weight": 23575000.0
+        }
+      ]
+    },
+    {
+      "name": "Joaquim de Almeida",
+      "age": 60,
+      "total_grossing_value": 12075000.0,
+      "adjacency_list": [
+        {
+          "node": "Behind Enemy Lines",
+          "weight": 12075000.0
+        }
+      ]
+    },
+    {
+      "name": "Olek Krupa",
+      "age": 70,
+      "total_grossing_value": 3450000.0,
+      "adjacency_list": [
+        {
+          "node": "Behind Enemy Lines",
+          "weight": 3450000.0
+        }
+      ]
+    },
+    {
+      "name": "Gabriel Macht",
+      "age": 46,
+      "total_grossing_value": 46575000.0,
+      "adjacency_list": [
+        {
+          "node": "Behind Enemy Lines",
+          "weight": 46575000.0
+        }
+      ]
+    },
+    {
+      "name": "Jennifer Garner",
+      "age": 45,
+      "total_grossing_value": 45920000.0,
+      "adjacency_list": [
+        {
+          "node": "Daredevil",
+          "weight": 45920000.0
+        }
+      ]
+    },
+    {
+      "name": "Michael Clarke Duncan",
+      "age": 60,
+      "total_grossing_value": 12320000.0,
+      "adjacency_list": [
+        {
+          "node": "Daredevil",
+          "weight": 12320000.0
+        }
+      ]
+    },
+    {
+      "name": "Colin Farrell",
+      "age": 41,
+      "total_grossing_value": 90720000.0,
+      "adjacency_list": [
+        {
+          "node": "Daredevil",
+          "weight": 90720000.0
+        }
+      ]
+    },
+    {
+      "name": "Jon Favreau",
+      "age": 51,
+      "total_grossing_value": 23520000.0,
+      "adjacency_list": [
+        {
+          "node": "Daredevil",
+          "weight": 23520000.0
+        }
+      ]
+    },
+    {
+      "name": "Leighton Meester",
+      "age": 31,
+      "total_grossing_value": 85255.5375,
+      "adjacency_list": [
+        {
+          "node": "Hangman's Curse",
+          "weight": 85255.5375
+        }
+      ]
+    },
+    {
+      "name": "Douglas Smith",
+      "age": 32,
+      "total_grossing_value": 43154.0375,
+      "adjacency_list": [
+        {
+          "node": "Hangman's Curse",
+          "weight": 43154.0375
+        }
+      ]
+    },
+    {
+      "name": "Frank Peretti",
+      "age": 67,
+      "total_grossing_value": 6315.225,
+      "adjacency_list": [
+        {
+          "node": "Hangman's Curse",
+          "weight": 6315.225
+        }
+      ]
+    },
+    {
+      "name": "William R. Moses",
+      "age": 58,
+      "total_grossing_value": 22103.2875,
+      "adjacency_list": [
+        {
+          "node": "Hangman's Curse",
+          "weight": 22103.2875
+        }
+      ]
+    },
+    {
+      "name": "Hilary Duff",
+      "age": 30,
+      "total_grossing_value": 3717538.4571200283,
+      "adjacency_list": [
+        {
+          "node": "Raise Your Voice",
+          "weight": 3717538.4571200283
+        }
+      ]
+    },
+    {
+      "name": "Oliver James",
+      "age": 37,
+      "total_grossing_value": 929879.5821200284,
+      "adjacency_list": [
+        {
+          "node": "Raise Your Voice",
+          "weight": 929879.5821200284
+        }
+      ]
+    },
+    {
+      "name": "Jason Ritter",
+      "age": 38,
+      "total_grossing_value": 465269.7696200284,
+      "adjacency_list": [
+        {
+          "node": "Raise Your Voice",
+          "weight": 465269.7696200284
+        }
+      ]
+    },
+    {
+      "name": "Dana Davis",
+      "age": 39,
+      "total_grossing_value": 232964.8633700284,
+      "adjacency_list": [
+        {
+          "node": "Raise Your Voice",
+          "weight": 232964.8633700284
+        }
+      ]
+    },
+    {
+      "name": "Rebecca De Mornay",
+      "age": 58,
+      "total_grossing_value": 58736.18368252841,
+      "adjacency_list": [
+        {
+          "node": "Raise Your Voice",
+          "weight": 58736.18368252841
+        }
+      ]
+    },
+    {
+      "name": "Kat Dennings",
+      "age": 31,
+      "total_grossing_value": 1859099.2071200283,
+      "adjacency_list": [
+        {
+          "node": "Raise Your Voice",
+          "weight": 1859099.2071200283
+        }
+      ]
+    },
+    {
+      "name": "Rita Wilson",
+      "age": 61,
+      "total_grossing_value": 29698.070401278408,
+      "adjacency_list": [
+        {
+          "node": "Raise Your Voice",
+          "weight": 29698.070401278408
+        }
+      ]
+    },
+    {
+      "name": "Lauren C. Mayhew",
+      "age": 29,
+      "total_grossing_value": 7434416.957120028,
+      "adjacency_list": [
+        {
+          "node": "Raise Your Voice",
+          "weight": 7434416.957120028
+        }
+      ]
+    },
+    {
+      "name": "John Corbett",
+      "age": 56,
+      "total_grossing_value": 116812.41024502841,
+      "adjacency_list": [
+        {
+          "node": "Raise Your Voice",
+          "weight": 116812.41024502841
+        }
+      ]
+    },
+    {
+      "name": "James Avery",
+      "age": 72,
+      "total_grossing_value": 7919.485440340909,
+      "adjacency_list": [
+        {
+          "node": "Raise Your Voice",
+          "weight": 7919.485440340909
+        }
+      ]
+    },
+    {
+      "name": "Beverly D'Angelo",
+      "age": 66,
+      "total_grossing_value": 36390676.291666664,
+      "adjacency_list": [
+        {
+          "node": "Coal Miner's Daughter",
+          "weight": 36390676.291666664
+        }
+      ]
+    },
+    {
+      "name": "Levon Helm",
+      "age": 77,
+      "total_grossing_value": 11197131.166666666,
+      "adjacency_list": [
+        {
+          "node": "Coal Miner's Daughter",
+          "weight": 11197131.166666666
+        }
+      ]
+    },
+    {
+      "name": "Jack Lemmon",
+      "age": 93,
+      "total_grossing_value": 2333333.3333333335,
+      "adjacency_list": [
+        {
+          "node": "Missing",
+          "weight": 2333333.3333333335
+        }
+      ]
+    },
+    {
+      "name": "Melanie Mayron",
+      "age": 65,
+      "total_grossing_value": 7583333.333333333,
+      "adjacency_list": [
+        {
+          "node": "Missing",
+          "weight": 7583333.333333333
+        }
+      ]
+    },
+    {
+      "name": "Kathleen Turner",
+      "age": 63,
+      "total_grossing_value": 5608112.25,
+      "adjacency_list": [
+        {
+          "node": "The Man with Two Brains",
+          "weight": 5608112.25
+        }
+      ]
+    },
+    {
+      "name": "David Warner",
+      "age": 76,
+      "total_grossing_value": 1725573.0,
+      "adjacency_list": [
+        {
+          "node": "The Man with Two Brains",
+          "weight": 1725573.0
+        }
+      ]
+    },
+    {
+      "name": "Diane Keaton",
+      "age": 72,
+      "total_grossing_value": 3221089.03125,
+      "adjacency_list": [
+        {
+          "node": "Crimes of the Heart",
+          "weight": 3221089.03125
+        }
+      ]
+    },
+    {
+      "name": "Sam Shepard",
+      "age": 74,
+      "total_grossing_value": 1789493.90625,
+      "adjacency_list": [
+        {
+          "node": "Crimes of the Heart",
+          "weight": 1789493.90625
+        }
+      ]
+    },
+    {
+      "name": "Tess Harper",
+      "age": 67,
+      "total_grossing_value": 11810659.78125,
+      "adjacency_list": [
+        {
+          "node": "Crimes of the Heart",
+          "weight": 11810659.78125
+        }
+      ]
+    },
+    {
+      "name": "Whoopi Goldberg",
+      "age": 62,
+      "total_grossing_value": 675427.359375,
+      "adjacency_list": [
+        {
+          "node": "The Long Walk Home",
+          "weight": 675427.359375
+        }
+      ]
+    },
+    {
+      "name": "Ving Rhames",
+      "age": 58,
+      "total_grossing_value": 2476566.984375,
+      "adjacency_list": [
+        {
+          "node": "The Long Walk Home",
+          "weight": 2476566.984375
+        }
+      ]
+    },
+    {
+      "name": "Dylan Baker",
+      "age": 59,
+      "total_grossing_value": 1275807.234375,
+      "adjacency_list": [
+        {
+          "node": "The Long Walk Home",
+          "weight": 1275807.234375
+        }
+      ]
+    },
+    {
+      "name": "William Petersen",
+      "age": 65,
+      "total_grossing_value": 89343.04166666667,
+      "adjacency_list": [
+        {
+          "node": "Hard Promises",
+          "weight": 89343.04166666667
+        }
+      ]
+    },
+    {
+      "name": "Mare Winningham",
+      "age": 58,
+      "total_grossing_value": 165922.79166666666,
+      "adjacency_list": [
+        {
+          "node": "Hard Promises",
+          "weight": 165922.79166666666
+        }
+      ]
+    },
+    {
+      "name": "Kevin Bacon",
+      "age": 59,
+      "total_grossing_value": 105909375.0,
+      "adjacency_list": [
+        {
+          "node": "JFK",
+          "weight": 105909375.0
+        }
+      ]
+    },
+    {
+      "name": "Laurie Metcalf",
+      "age": 62,
+      "total_grossing_value": 54559375.0,
+      "adjacency_list": [
+        {
+          "node": "JFK",
+          "weight": 54559375.0
+        }
+      ]
+    },
+    {
+      "name": "Michael Rooker",
+      "age": 62,
+      "total_grossing_value": 28884375.0,
+      "adjacency_list": [
+        {
+          "node": "JFK",
+          "weight": 28884375.0
+        }
+      ]
+    },
+    {
+      "name": "Aaron Michael Metchik",
+      "age": 37,
+      "total_grossing_value": 164547.796875,
+      "adjacency_list": [
+        {
+          "node": "Trading Mom",
+          "weight": 164547.796875
+        }
+      ]
+    },
+    {
+      "name": "André the Giant",
+      "age": 71,
+      "total_grossing_value": 44876.671875,
+      "adjacency_list": [
+        {
+          "node": "Trading Mom",
+          "weight": 44876.671875
+        }
+      ]
+    },
+    {
+      "name": "Maureen Stapleton",
+      "age": 92,
+      "total_grossing_value": 24931.484375,
+      "adjacency_list": [
+        {
+          "node": "Trading Mom",
+          "weight": 24931.484375
+        }
+      ]
+    },
+    {
+      "name": "Joe Don Baker",
+      "age": 82,
+      "total_grossing_value": 8799.60908203125,
+      "adjacency_list": [
+        {
+          "node": "The Grass Harp",
+          "weight": 8799.60908203125
+        }
+      ]
+    },
+    {
+      "name": "Nell Carter",
+      "age": 69,
+      "total_grossing_value": 17544.56220703125,
+      "adjacency_list": [
+        {
+          "node": "The Grass Harp",
+          "weight": 17544.56220703125
+        }
+      ]
+    },
+    {
+      "name": "Charles Durning",
+      "age": 94,
+      "total_grossing_value": 1147.77509765625,
+      "adjacency_list": [
+        {
+          "node": "The Grass Harp",
+          "weight": 1147.77509765625
+        }
+      ]
+    },
+    {
+      "name": "Sean Patrick Flanery",
+      "age": 52,
+      "total_grossing_value": 70014.28095703125,
+      "adjacency_list": [
+        {
+          "node": "The Grass Harp",
+          "weight": 70014.28095703125
+        }
+      ]
+    },
+    {
+      "name": "Edward Furlong",
+      "age": 40,
+      "total_grossing_value": 279893.15595703124,
+      "adjacency_list": [
+        {
+          "node": "The Grass Harp",
+          "weight": 279893.15595703124
+        }
+      ]
+    },
+    {
+      "name": "Mia Kirshner",
+      "age": 43,
+      "total_grossing_value": 139973.90595703124,
+      "adjacency_list": [
+        {
+          "node": "The Grass Harp",
+          "weight": 139973.90595703124
+        }
+      ]
+    },
+    {
+      "name": "Piper Laurie",
+      "age": 86,
+      "total_grossing_value": 4427.13251953125,
+      "adjacency_list": [
+        {
+          "node": "The Grass Harp",
+          "weight": 4427.13251953125
+        }
+      ]
+    },
+    {
+      "name": "Walter Matthau",
+      "age": 97,
+      "total_grossing_value": 601.21552734375,
+      "adjacency_list": [
+        {
+          "node": "The Grass Harp",
+          "weight": 601.21552734375
+        }
+      ]
+    },
+    {
+      "name": "Roddy McDowall",
+      "age": 89,
+      "total_grossing_value": 2240.89423828125,
+      "adjacency_list": [
+        {
+          "node": "The Grass Harp",
+          "weight": 2240.89423828125
+        }
+      ]
+    },
+    {
+      "name": "Nick Nolte",
+      "age": 77,
+      "total_grossing_value": 214298.703125,
+      "adjacency_list": [
+        {
+          "node": "Affliction",
+          "weight": 214298.703125
+        }
+      ]
+    },
+    {
+      "name": "James Coburn",
+      "age": 89,
+      "total_grossing_value": 115391.609375,
+      "adjacency_list": [
+        {
+          "node": "Affliction",
+          "weight": 115391.609375
+        }
+      ]
+    },
+    {
+      "name": "Willem Dafoe",
+      "age": 62,
+      "total_grossing_value": 1598998.015625,
+      "adjacency_list": [
+        {
+          "node": "Affliction",
+          "weight": 1598998.015625
+        }
+      ]
+    },
+    {
+      "name": "Mary Beth Hurt",
+      "age": 71,
+      "total_grossing_value": 412112.890625,
+      "adjacency_list": [
+        {
+          "node": "Affliction",
+          "weight": 412112.890625
+        }
+      ]
+    },
+    {
+      "name": "Jim True",
+      "age": 51,
+      "total_grossing_value": 3181511.515625,
+      "adjacency_list": [
+        {
+          "node": "Affliction",
+          "weight": 3181511.515625
+        }
+      ]
+    },
+    {
+      "name": "Brendan Fraser",
+      "age": 49,
+      "total_grossing_value": 10326875.0,
+      "adjacency_list": [
+        {
+          "node": "Blast from the Past",
+          "weight": 10326875.0
+        }
+      ]
+    },
+    {
+      "name": "Alicia Silverstone",
+      "age": 41,
+      "total_grossing_value": 20401875.0,
+      "adjacency_list": [
+        {
+          "node": "Blast from the Past",
+          "weight": 20401875.0
+        }
+      ]
+    },
+    {
+      "name": "Christopher Walken",
+      "age": 74,
+      "total_grossing_value": 1511250.0,
+      "adjacency_list": [
+        {
+          "node": "Blast from the Past",
+          "weight": 1511250.0
+        }
+      ]
+    },
+    {
+      "name": "Dave Foley",
+      "age": 55,
+      "total_grossing_value": 5289375.0,
+      "adjacency_list": [
+        {
+          "node": "Blast from the Past",
+          "weight": 5289375.0
+        }
+      ]
+    },
+    {
+      "name": "Richard Farnsworth",
+      "age": 97,
+      "total_grossing_value": 2325000.0,
+      "adjacency_list": [
+        {
+          "node": "The Straight Story",
+          "weight": 2325000.0
+        }
+      ]
+    },
+    {
+      "name": "Nick Stahl",
+      "age": 38,
+      "total_grossing_value": 23508333.333333332,
+      "adjacency_list": [
+        {
+          "node": "In the Bedroom",
+          "weight": 23508333.333333332
+        }
+      ]
+    },
+    {
+      "name": "Marisa Tomei",
+      "age": 53,
+      "total_grossing_value": 12658333.333333334,
+      "adjacency_list": [
+        {
+          "node": "In the Bedroom",
+          "weight": 12658333.333333334
+        }
+      ]
+    },
+    {
+      "name": "Alexis Bledel",
+      "age": 36,
+      "total_grossing_value": 4857743.722098215,
+      "adjacency_list": [
+        {
+          "node": "Tuck Everlasting",
+          "weight": 4857743.722098215
+        }
+      ]
+    },
+    {
+      "name": "Amy Irving",
+      "age": 64,
+      "total_grossing_value": 1230628.4095982143,
+      "adjacency_list": [
+        {
+          "node": "Tuck Everlasting",
+          "weight": 1230628.4095982143
+        }
+      ]
+    },
+    {
+      "name": "Victor Garber",
+      "age": 68,
+      "total_grossing_value": 323849.58147321426,
+      "adjacency_list": [
+        {
+          "node": "Tuck Everlasting",
+          "weight": 323849.58147321426
+        }
+      ]
+    },
+    {
+      "name": "Jonathan Jackson",
+      "age": 35,
+      "total_grossing_value": 9693897.472098215,
+      "adjacency_list": [
+        {
+          "node": "Tuck Everlasting",
+          "weight": 9693897.472098215
+        }
+      ]
+    },
+    {
+      "name": "Scott Bairstow",
+      "age": 47,
+      "total_grossing_value": 2439666.847098214,
+      "adjacency_list": [
+        {
+          "node": "Tuck Everlasting",
+          "weight": 2439666.847098214
+        }
+      ]
+    },
+    {
+      "name": "William Hurt",
+      "age": 67,
+      "total_grossing_value": 626109.1908482143,
+      "adjacency_list": [
+        {
+          "node": "Tuck Everlasting",
+          "weight": 626109.1908482143
+        }
+      ]
+    },
+    {
+      "name": "Glenn Close",
+      "age": 70,
+      "total_grossing_value": 192.2770185470581,
+      "adjacency_list": [
+        {
+          "node": "Nine Lives",
+          "weight": 192.2770185470581
+        }
+      ]
+    },
+    {
+      "name": "Holly Hunter",
+      "age": 59,
+      "total_grossing_value": 3054.0745038986206,
+      "adjacency_list": [
+        {
+          "node": "Nine Lives",
+          "weight": 3054.0745038986206
+        }
+      ]
+    },
+    {
+      "name": "Lisa Gay Hamilton",
+      "age": 53,
+      "total_grossing_value": 48842.83426952362,
+      "adjacency_list": [
+        {
+          "node": "Nine Lives",
+          "weight": 48842.83426952362
+        }
+      ]
+    },
+    {
+      "name": "Kathy Baker",
+      "age": 67,
+      "total_grossing_value": 764.6365156173706,
+      "adjacency_list": [
+        {
+          "node": "Nine Lives",
+          "weight": 764.6365156173706
+        }
+      ]
+    },
+    {
+      "name": "Amy Brenneman",
+      "age": 53,
+      "total_grossing_value": 97684.17801952362,
+      "adjacency_list": [
+        {
+          "node": "Nine Lives",
+          "weight": 97684.17801952362
+        }
+      ]
+    },
+    {
+      "name": "Robin Wright Penn",
+      "age": 51,
+      "total_grossing_value": 195366.86551952362,
+      "adjacency_list": [
+        {
+          "node": "Nine Lives",
+          "weight": 195366.86551952362
+        }
+      ]
+    },
+    {
+      "name": "Aidan Quinn",
+      "age": 58,
+      "total_grossing_value": 6106.658488273621,
+      "adjacency_list": [
+        {
+          "node": "Nine Lives",
+          "weight": 6106.658488273621
+        }
+      ]
+    },
+    {
+      "name": "K Callan",
+      "age": 82,
+      "total_grossing_value": 25.338831901550293,
+      "adjacency_list": [
+        {
+          "node": "Nine Lives",
+          "weight": 25.338831901550293
+        }
+      ]
+    },
+    {
+      "name": "Dakota Fanning",
+      "age": 24,
+      "total_grossing_value": 781462.9905195236,
+      "adjacency_list": [
+        {
+          "node": "Nine Lives",
+          "weight": 781462.9905195236
+        }
+      ]
+    },
+    {
+      "name": "Ian McShane",
+      "age": 75,
+      "total_grossing_value": 49.18714427947998,
+      "adjacency_list": [
+        {
+          "node": "Nine Lives",
+          "weight": 49.18714427947998
+        }
+      ]
+    },
+    {
+      "name": "Mary Kay Place",
+      "age": 70,
+      "total_grossing_value": 96.88376903533936,
+      "adjacency_list": [
+        {
+          "node": "Nine Lives",
+          "weight": 96.88376903533936
+        }
+      ]
+    },
+    {
+      "name": "Sydney Tamiia Poitier",
+      "age": 44,
+      "total_grossing_value": 390732.2405195236,
+      "adjacency_list": [
+        {
+          "node": "Nine Lives",
+          "weight": 390732.2405195236
+        }
+      ]
+    },
+    {
+      "name": "Elpidia Carrillo",
+      "age": 56,
+      "total_grossing_value": 12211.82645702362,
+      "adjacency_list": [
+        {
+          "node": "Nine Lives",
+          "weight": 12211.82645702362
+        }
+      ]
+    },
+    {
+      "name": "Jason Isaacs",
+      "age": 54,
+      "total_grossing_value": 24422.16239452362,
+      "adjacency_list": [
+        {
+          "node": "Nine Lives",
+          "weight": 24422.16239452362
+        }
+      ]
+    },
+    {
+      "name": "Miguel Sandoval",
+      "age": 66,
+      "total_grossing_value": 1527.7825117111206,
+      "adjacency_list": [
+        {
+          "node": "Nine Lives",
+          "weight": 1527.7825117111206
+        }
+      ]
+    },
+    {
+      "name": "Naomi Watts",
+      "age": 49,
+      "total_grossing_value": 10273995.535714285,
+      "adjacency_list": [
+        {
+          "node": "The Ring Two",
+          "weight": 10273995.535714285
+        }
+      ]
+    },
+    {
+      "name": "Simon Baker",
+      "age": 48,
+      "total_grossing_value": 20367745.535714287,
+      "adjacency_list": [
+        {
+          "node": "The Ring Two",
+          "weight": 20367745.535714287
+        }
+      ]
+    },
+    {
+      "name": "David Dorfman",
+      "age": 25,
+      "total_grossing_value": 80930245.53571428,
+      "adjacency_list": [
+        {
+          "node": "The Ring Two",
+          "weight": 80930245.53571428
+        }
+      ]
+    },
+    {
+      "name": "Elizabeth Perkins",
+      "age": 57,
+      "total_grossing_value": 5227120.535714285,
+      "adjacency_list": [
+        {
+          "node": "The Ring Two",
+          "weight": 5227120.535714285
+        }
+      ]
+    },
+    {
+      "name": "Gary Cole",
+      "age": 61,
+      "total_grossing_value": 2703683.035714286,
+      "adjacency_list": [
+        {
+          "node": "The Ring Two",
+          "weight": 2703683.035714286
+        }
+      ]
+    },
+    {
+      "name": "Daveigh Chase",
+      "age": 27,
+      "total_grossing_value": 40555245.53571428,
+      "adjacency_list": [
+        {
+          "node": "The Ring Two",
+          "weight": 40555245.53571428
+        }
+      ]
+    },
+    {
+      "name": "Frances McDormand",
+      "age": 60,
+      "total_grossing_value": 3543750.0,
+      "adjacency_list": [
+        {
+          "node": "North Country",
+          "weight": 3543750.0
+        }
+      ]
+    },
+    {
+      "name": "Sean Bean",
+      "age": 58,
+      "total_grossing_value": 6693750.0,
+      "adjacency_list": [
+        {
+          "node": "North Country",
+          "weight": 6693750.0
+        }
+      ]
+    },
+    {
+      "name": "Jeremy Renner",
+      "age": 47,
+      "total_grossing_value": 12993750.0,
+      "adjacency_list": [
+        {
+          "node": "North Country",
+          "weight": 12993750.0
+        }
+      ]
+    },
+    {
+      "name": "James D'Arcy",
+      "age": 42,
+      "total_grossing_value": 8636873.291666666,
+      "adjacency_list": [
+        {
+          "node": "An American Haunting",
+          "weight": 8636873.291666666
+        }
+      ]
+    },
+    {
+      "name": "Rachel Hurd-Wood",
+      "age": 27,
+      "total_grossing_value": 16039907.541666666,
+      "adjacency_list": [
+        {
+          "node": "An American Haunting",
+          "weight": 16039907.541666666
+        }
+      ]
+    },
+    {
+      "name": "Heather Graham",
+      "age": 48,
+      "total_grossing_value": 29868.75,
+      "adjacency_list": [
+        {
+          "node": "Gray Matters",
+          "weight": 29868.75
+        }
+      ]
+    },
+    {
+      "name": "Tom Cavanagh",
+      "age": 54,
+      "total_grossing_value": 4056.25,
+      "adjacency_list": [
+        {
+          "node": "Gray Matters",
+          "weight": 4056.25
+        }
+      ]
+    },
+    {
+      "name": "Alan Cumming",
+      "age": 53,
+      "total_grossing_value": 7743.75,
+      "adjacency_list": [
+        {
+          "node": "Gray Matters",
+          "weight": 7743.75
+        }
+      ]
+    },
+    {
+      "name": "Rachel Shelley",
+      "age": 48,
+      "total_grossing_value": 15118.75,
+      "adjacency_list": [
+        {
+          "node": "Gray Matters",
+          "weight": 15118.75
+        }
+      ]
+    },
+    {
+      "name": "Bill Hader",
+      "age": 39,
+      "total_grossing_value": 7764467.208333333,
+      "adjacency_list": [
+        {
+          "node": "Hot Rod",
+          "weight": 7764467.208333333
+        }
+      ]
+    },
+    {
+      "name": "Danny McBride",
+      "age": 41,
+      "total_grossing_value": 4180866.9583333335,
+      "adjacency_list": [
+        {
+          "node": "Hot Rod",
+          "weight": 4180866.9583333335
+        }
+      ]
+    },
+    {
+      "name": "Troy Garity",
+      "age": 44,
+      "total_grossing_value": 6422.2875,
+      "adjacency_list": [
+        {
+          "node": "Lake City",
+          "weight": 6422.2875
+        }
+      ]
+    },
+    {
+      "name": "Keith Carradine",
+      "age": 68,
+      "total_grossing_value": 872.1625,
+      "adjacency_list": [
+        {
+          "node": "Lake City",
+          "weight": 872.1625
+        }
+      ]
+    },
+    {
+      "name": "Rebecca Romijn",
+      "age": 45,
+      "total_grossing_value": 3250.7875,
+      "adjacency_list": [
+        {
+          "node": "Lake City",
+          "weight": 3250.7875
+        }
+      ]
+    },
+    {
+      "name": "Drea de Matteo",
+      "age": 46,
+      "total_grossing_value": 1665.0375,
+      "adjacency_list": [
+        {
+          "node": "Lake City",
+          "weight": 1665.0375
+        }
+      ]
+    },
+    {
+      "name": "Vince Vaughn",
+      "age": 47,
+      "total_grossing_value": 41351302.083333336,
+      "adjacency_list": [
+        {
+          "node": "Four Christmases",
+          "weight": 41351302.083333336
+        }
+      ]
+    },
+    {
+      "name": "Reese Witherspoon",
+      "age": 41,
+      "total_grossing_value": 82276302.08333333,
+      "adjacency_list": [
+        {
+          "node": "Four Christmases",
+          "weight": 82276302.08333333
+        }
+      ]
+    },
+    {
+      "name": "Dwight Yoakam",
+      "age": 61,
+      "total_grossing_value": 10657552.083333334,
+      "adjacency_list": [
+        {
+          "node": "Four Christmases",
+          "weight": 10657552.083333334
+        }
+      ]
+    },
+    {
+      "name": "Tim McGraw",
+      "age": 50,
+      "total_grossing_value": 20888802.083333332,
+      "adjacency_list": [
+        {
+          "node": "Four Christmases",
+          "weight": 20888802.083333332
+        }
+      ]
+    },
+    {
+      "name": "Jon Voight",
+      "age": 79,
+      "total_grossing_value": 2984114.5833333335,
+      "adjacency_list": [
+        {
+          "node": "Four Christmases",
+          "weight": 2984114.5833333335
+        }
+      ]
+    },
+    {
+      "name": "Bill Murray",
+      "age": 67,
+      "total_grossing_value": 2576562.5,
+      "adjacency_list": [
+        {
+          "node": "Get Low",
+          "weight": 2576562.5
+        }
+      ]
+    },
+    {
+      "name": "Lucas Black",
+      "age": 35,
+      "total_grossing_value": 5001562.5,
+      "adjacency_list": [
+        {
+          "node": "Get Low",
+          "weight": 5001562.5
+        }
+      ]
+    },
+    {
+      "name": "Bill Cobbs",
+      "age": 83,
+      "total_grossing_value": 757812.5,
+      "adjacency_list": [
+        {
+          "node": "Get Low",
+          "weight": 757812.5
+        }
+      ]
+    },
+    {
+      "name": "Octavia Spencer",
+      "age": 45,
+      "total_grossing_value": 55503750.0,
+      "adjacency_list": [
+        {
+          "node": "The Help",
+          "weight": 55503750.0
+        }
+      ]
+    },
+    {
+      "name": "Viola Davis",
+      "age": 52,
+      "total_grossing_value": 28428750.0,
+      "adjacency_list": [
+        {
+          "node": "The Help",
+          "weight": 28428750.0
+        }
+      ]
+    },
+    {
+      "name": "Bryce Dallas Howard",
+      "age": 36,
+      "total_grossing_value": 109653750.0,
+      "adjacency_list": [
+        {
+          "node": "The Help",
+          "weight": 109653750.0
+        }
+      ]
+    },
+    {
+      "name": "Allison Janney",
+      "age": 58,
+      "total_grossing_value": 14891250.0,
+      "adjacency_list": [
+        {
+          "node": "The Help",
+          "weight": 14891250.0
+        }
+      ]
+    },
+    {
+      "name": "Eric Bana",
+      "age": 49,
+      "total_grossing_value": 249375.0,
+      "adjacency_list": [
+        {
+          "node": "Deadfall",
+          "weight": 249375.0
+        }
+      ]
+    },
+    {
+      "name": "Olivia Wilde",
+      "age": 33,
+      "total_grossing_value": 961875.0,
+      "adjacency_list": [
+        {
+          "node": "Deadfall",
+          "weight": 961875.0
+        }
+      ]
+    },
+    {
+      "name": "Charlie Hunnam",
+      "age": 37,
+      "total_grossing_value": 486875.0,
+      "adjacency_list": [
+        {
+          "node": "Deadfall",
+          "weight": 486875.0
+        }
+      ]
+    },
+    {
+      "name": "Treat Williams",
+      "age": 66,
+      "total_grossing_value": 130625.0,
+      "adjacency_list": [
+        {
+          "node": "Deadfall",
+          "weight": 130625.0
+        }
+      ]
+    },
+    {
+      "name": "James Cagney",
+      "age": 118,
+      "total_grossing_value": 4162169.25,
+      "adjacency_list": [
+        {
+          "node": "Ragtime",
+          "weight": 4162169.25
+        }
+      ]
+    },
+    {
+      "name": "Shirley MacLaine",
+      "age": 83,
+      "total_grossing_value": 8468750.0,
+      "adjacency_list": [
+        {
+          "node": "Terms of Endearment",
+          "weight": 8468750.0
+        }
+      ]
+    },
+    {
+      "name": "Danny DeVito",
+      "age": 73,
+      "total_grossing_value": 15243750.0,
+      "adjacency_list": [
+        {
+          "node": "Terms of Endearment",
+          "weight": 15243750.0
+        }
+      ]
+    },
+    {
+      "name": "John Lithgow",
+      "age": 72,
+      "total_grossing_value": 28793750.0,
+      "adjacency_list": [
+        {
+          "node": "Terms of Endearment",
+          "weight": 28793750.0
+        }
+      ]
+    },
+    {
+      "name": "Mia Farrow",
+      "age": 73,
+      "total_grossing_value": 3100805.4583333335,
+      "adjacency_list": [
+        {
+          "node": "The Purple Rose of Cairo",
+          "weight": 3100805.4583333335
+        }
+      ]
+    },
+    {
+      "name": "Danny Aiello",
+      "age": 84,
+      "total_grossing_value": 1771888.8333333333,
+      "adjacency_list": [
+        {
+          "node": "The Purple Rose of Cairo",
+          "weight": 1771888.8333333333
+        }
+      ]
+    },
+    {
+      "name": "Melanie Griffith",
+      "age": 60,
+      "total_grossing_value": 4550000.0,
+      "adjacency_list": [
+        {
+          "node": "Something Wild",
+          "weight": 4550000.0
+        }
+      ]
+    },
+    {
+      "name": "Ray Liotta",
+      "age": 63,
+      "total_grossing_value": 2450000.0,
+      "adjacency_list": [
+        {
+          "node": "Something Wild",
+          "weight": 2450000.0
+        }
+      ]
+    },
+    {
+      "name": "Meryl Streep",
+      "age": 68,
+      "total_grossing_value": 9487500.0,
+      "adjacency_list": [
+        {
+          "node": "Heartburn",
+          "weight": 9487500.0
+        }
+      ]
+    },
+    {
+      "name": "Seth Green",
+      "age": 44,
+      "total_grossing_value": 7403211.805555556,
+      "adjacency_list": [
+        {
+          "node": "Radio Days",
+          "weight": 7403211.805555556
+        }
+      ]
+    },
+    {
+      "name": "Robert Joy",
+      "age": 66,
+      "total_grossing_value": 1853211.8055555555,
+      "adjacency_list": [
+        {
+          "node": "Radio Days",
+          "weight": 1853211.8055555555
+        }
+      ]
+    },
+    {
+      "name": "Julie Kavner",
+      "age": 67,
+      "total_grossing_value": 928211.8055555555,
+      "adjacency_list": [
+        {
+          "node": "Radio Days",
+          "weight": 928211.8055555555
+        }
+      ]
+    },
+    {
+      "name": "Renée Lippin",
+      "age": 71,
+      "total_grossing_value": 465711.80555555556,
+      "adjacency_list": [
+        {
+          "node": "Radio Days",
+          "weight": 465711.80555555556
+        }
+      ]
+    },
+    {
+      "name": "Kenneth Mars",
+      "age": 82,
+      "total_grossing_value": 32118.055555555555,
+      "adjacency_list": [
+        {
+          "node": "Radio Days",
+          "weight": 32118.055555555555
+        }
+      ]
+    },
+    {
+      "name": "Josh Mostel",
+      "age": 71,
+      "total_grossing_value": 234461.80555555556,
+      "adjacency_list": [
+        {
+          "node": "Radio Days",
+          "weight": 234461.80555555556
+        }
+      ]
+    },
+    {
+      "name": "Tony Roberts",
+      "age": 78,
+      "total_grossing_value": 61024.305555555555,
+      "adjacency_list": [
+        {
+          "node": "Radio Days",
+          "weight": 61024.305555555555
+        }
+      ]
+    },
+    {
+      "name": "Wallace Shawn",
+      "age": 74,
+      "total_grossing_value": 118836.80555555556,
+      "adjacency_list": [
+        {
+          "node": "Radio Days",
+          "weight": 118836.80555555556
+        }
+      ]
+    },
+    {
+      "name": "Mandy Patinkin",
+      "age": 65,
+      "total_grossing_value": 172434.0,
+      "adjacency_list": [
+        {
+          "node": "The House on Carroll Street",
+          "weight": 172434.0
+        }
+      ]
+    },
+    {
+      "name": "Don Johnson",
+      "age": 68,
+      "total_grossing_value": 533038.078125,
+      "adjacency_list": [
+        {
+          "node": "Sweet Hearts Dance",
+          "weight": 533038.078125
+        }
+      ]
+    },
+    {
+      "name": "Susan Sarandon",
+      "age": 71,
+      "total_grossing_value": 296132.265625,
+      "adjacency_list": [
+        {
+          "node": "Sweet Hearts Dance",
+          "weight": 296132.265625
+        }
+      ]
+    },
+    {
+      "name": "Justin Henry",
+      "age": 46,
+      "total_grossing_value": 1954472.953125,
+      "adjacency_list": [
+        {
+          "node": "Sweet Hearts Dance",
+          "weight": 1954472.953125
+        }
+      ]
+    },
+    {
+      "name": "Julian Sands",
+      "age": 60,
+      "total_grossing_value": 28816666.666666668,
+      "adjacency_list": [
+        {
+          "node": "Arachnophobia",
+          "weight": 28816666.666666668
+        }
+      ]
+    },
+    {
+      "name": "Harley Jane Kozak",
+      "age": 61,
+      "total_grossing_value": 15516666.666666666,
+      "adjacency_list": [
+        {
+          "node": "Arachnophobia",
+          "weight": 15516666.666666666
+        }
+      ]
+    },
+    {
+      "name": "Winona Ryder",
+      "age": 46,
+      "total_grossing_value": 2160869.2083333335,
+      "adjacency_list": [
+        {
+          "node": "Welcome Home, Roxy Carmichael",
+          "weight": 2160869.2083333335
+        }
+      ]
+    },
+    {
+      "name": "Laila Robins",
+      "age": 58,
+      "total_grossing_value": 1163544.9583333333,
+      "adjacency_list": [
+        {
+          "node": "Welcome Home, Roxy Carmichael",
+          "weight": 1163544.9583333333
+        }
+      ]
+    },
+    {
+      "name": "Demi Moore",
+      "age": 55,
+      "total_grossing_value": 4996311.375,
+      "adjacency_list": [
+        {
+          "node": "The Butcher's Wife",
+          "weight": 4996311.375
+        }
+      ]
+    },
+    {
+      "name": "George Dzundza",
+      "age": 72,
+      "total_grossing_value": 757016.875,
+      "adjacency_list": [
+        {
+          "node": "The Butcher's Wife",
+          "weight": 757016.875
+        }
+      ]
+    },
+    {
+      "name": "Margaret Colin",
+      "age": 59,
+      "total_grossing_value": 2573857.375,
+      "adjacency_list": [
+        {
+          "node": "The Butcher's Wife",
+          "weight": 2573857.375
+        }
+      ]
+    },
+    {
+      "name": "Betty Buckley",
+      "age": 70,
+      "total_grossing_value": 1875.0,
+      "adjacency_list": [
+        {
+          "node": "Rain Without Thunder",
+          "weight": 1875.0
+        }
+      ]
+    },
+    {
+      "name": "Richard Anderson",
+      "age": 91,
+      "total_grossing_value": 403873.5,
+      "adjacency_list": [
+        {
+          "node": "Gettysburg",
+          "weight": 403873.5
+        }
+      ]
+    },
+    {
+      "name": "Richard Jordan",
+      "age": 80,
+      "total_grossing_value": 740434.75,
+      "adjacency_list": [
+        {
+          "node": "Gettysburg",
+          "weight": 740434.75
+        }
+      ]
+    },
+    {
+      "name": "Stephen Lang",
+      "age": 65,
+      "total_grossing_value": 2759802.25,
+      "adjacency_list": [
+        {
+          "node": "Gettysburg",
+          "weight": 2759802.25
+        }
+      ]
+    },
+    {
+      "name": "Sam Elliott",
+      "age": 73,
+      "total_grossing_value": 1413557.25,
+      "adjacency_list": [
+        {
+          "node": "Gettysburg",
+          "weight": 1413557.25
+        }
+      ]
+    },
+    {
+      "name": "Joe Morton",
+      "age": 70,
+      "total_grossing_value": 131400000.0,
+      "adjacency_list": [
+        {
+          "node": "Speed",
+          "weight": 131400000.0
+        }
+      ]
+    }
+  ],
+  "movie_nodes": [
+    {
+      "name": "Brubaker",
+      "box_office": 37121708.0,
+      "year": 1980,
+      "adjacency_list": [
+        {
+          "node": "David Keith",
+          "weight": 18792864.675
+        },
+        {
+          "node": "Yaphet Kotto",
+          "weight": 9512437.675
+        },
+        {
+          "node": "Jane Alexander",
+          "weight": 4872224.175
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 2552117.425
+        },
+        {
+          "node": "Robert Redford",
+          "weight": 1392064.05
+        }
+      ]
+    },
+    {
+      "name": "Marie",
+      "box_office": 2507995.0,
+      "year": 1985,
+      "adjacency_list": [
+        {
+          "node": "Jeff Daniels",
+          "weight": 1269672.46875
+        },
+        {
+          "node": "Keith Szarabajka",
+          "weight": 642673.71875
+        },
+        {
+          "node": "Sissy Spacek",
+          "weight": 329174.34375
+        },
+        {
+          "node": "Fred Thompson",
+          "weight": 172424.65625
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 94049.8125
+        }
+      ]
+    },
+    {
+      "name": "That Was Then... This Is Now",
+      "box_office": 8630068.0,
+      "year": 1985,
+      "adjacency_list": [
+        {
+          "node": "Jill Schoelen",
+          "weight": 4368971.925
+        },
+        {
+          "node": "Kim Delaney",
+          "weight": 2211454.925
+        },
+        {
+          "node": "Craig Sheffer",
+          "weight": 1132696.425
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 593317.175
+        },
+        {
+          "node": "Barbara Babcock",
+          "weight": 323627.55
+        }
+      ]
+    },
+    {
+      "name": "Glory",
+      "box_office": 26800000.0,
+      "year": 1989,
+      "adjacency_list": [
+        {
+          "node": "Matthew Broderick",
+          "weight": 13818750.0
+        },
+        {
+          "node": "Cary Elwes",
+          "weight": 7118750.0
+        },
+        {
+          "node": "Denzel Washington",
+          "weight": 3768750.0
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 2093750.0
+        }
+      ]
+    },
+    {
+      "name": "Driving Miss Daisy",
+      "box_office": 145800000.0,
+      "year": 1989,
+      "adjacency_list": [
+        {
+          "node": "Dan Aykroyd",
+          "weight": 78975000.0
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 42525000.0
+        },
+        {
+          "node": "Jessica Tandy",
+          "weight": 24300000.0
+        }
+      ]
+    },
+    {
+      "name": "Johnny Handsome",
+      "box_office": 7237794.0,
+      "year": 1989,
+      "adjacency_list": [
+        {
+          "node": "Elizabeth McGovern",
+          "weight": 3626974.895089286
+        },
+        {
+          "node": "Forest Whitaker",
+          "weight": 1817526.3950892857
+        },
+        {
+          "node": "Ellen Barkin",
+          "weight": 912802.1450892857
+        },
+        {
+          "node": "Mickey Rourke",
+          "weight": 460440.02008928574
+        },
+        {
+          "node": "Scott Wilson",
+          "weight": 234258.9575892857
+        },
+        {
+          "node": "Lance Henriksen",
+          "weight": 121168.42633928571
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 64623.16071428572
+        }
+      ]
+    },
+    {
+      "name": "Robin Hood: Prince of Thieves",
+      "box_office": 390500000.0,
+      "year": 1991,
+      "adjacency_list": [
+        {
+          "node": "Christian Slater",
+          "weight": 201351562.5
+        },
+        {
+          "node": "Mary Elizabeth Mastrantonio",
+          "weight": 103726562.5
+        },
+        {
+          "node": "Alan Rickman",
+          "weight": 54914062.5
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 30507812.5
+        }
+      ]
+    },
+    {
+      "name": "Unforgiven",
+      "box_office": 159200000.0,
+      "year": 1992,
+      "adjacency_list": [
+        {
+          "node": "Morgan Freeman",
+          "weight": 86233333.33333333
+        },
+        {
+          "node": "Richard Harris",
+          "weight": 46433333.333333336
+        },
+        {
+          "node": "Gene Hackman",
+          "weight": 26533333.333333332
+        }
+      ]
+    },
+    {
+      "name": "The Shawshank Redemption",
+      "box_office": 58300000.0,
+      "year": 1994,
+      "adjacency_list": [
+        {
+          "node": "Tim Robbins",
+          "weight": 29514375.0
+        },
+        {
+          "node": "Clancy Brown",
+          "weight": 14939375.0
+        },
+        {
+          "node": "William Sadler",
+          "weight": 7651875.0
+        },
+        {
+          "node": "Bob Gunton",
+          "weight": 4008125.0
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 2186250.0
+        }
+      ]
+    },
+    {
+      "name": "Seven",
+      "box_office": 327300000.0,
+      "year": 1995,
+      "adjacency_list": [
+        {
+          "node": "Gwyneth Paltrow",
+          "weight": 177287500.0
+        },
+        {
+          "node": "John C. McGinley",
+          "weight": 95462500.0
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 54550000.0
+        }
+      ]
+    },
+    {
+      "name": "Chain Reaction",
+      "box_office": 60209334.0,
+      "year": 1996,
+      "adjacency_list": [
+        {
+          "node": "Rachel Weisz",
+          "weight": 30261462.140625
+        },
+        {
+          "node": "Keanu Reeves",
+          "weight": 15209128.640625
+        },
+        {
+          "node": "Kevin Dunn",
+          "weight": 7682961.890625
+        },
+        {
+          "node": "Brian Cox",
+          "weight": 3919878.515625
+        },
+        {
+          "node": "Fred Ward",
+          "weight": 2038336.828125
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 1097565.984375
+        }
+      ]
+    },
+    {
+      "name": "Amistad",
+      "box_office": 44200000.0,
+      "year": 1997,
+      "adjacency_list": [
+        {
+          "node": "Matthew McConaughey",
+          "weight": 22121582.03125
+        },
+        {
+          "node": "Djimon Hounsou",
+          "weight": 11071582.03125
+        },
+        {
+          "node": "David Paymer",
+          "weight": 5546582.03125
+        },
+        {
+          "node": "Stellan Skarsgård",
+          "weight": 2784082.03125
+        },
+        {
+          "node": "Pete Postlethwaite",
+          "weight": 1402832.03125
+        },
+        {
+          "node": "Anthony Hopkins",
+          "weight": 712207.03125
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 366894.53125
+        },
+        {
+          "node": "Nigel Hawthorne",
+          "weight": 194238.28125
+        }
+      ]
+    },
+    {
+      "name": "Kiss the Girls",
+      "box_office": 60500000.0,
+      "year": 1997,
+      "adjacency_list": [
+        {
+          "node": "Ashley Judd",
+          "weight": 31195312.5
+        },
+        {
+          "node": "Tony Goldwyn",
+          "weight": 16070312.5
+        },
+        {
+          "node": "Jay O. Sanders",
+          "weight": 8507812.5
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 4726562.5
+        }
+      ]
+    },
+    {
+      "name": "Deep Impact",
+      "box_office": 349500000.0,
+      "year": 1998,
+      "adjacency_list": [
+        {
+          "node": "Elijah Wood",
+          "weight": 175660156.25
+        },
+        {
+          "node": "Téa Leoni",
+          "weight": 88285156.25
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 44597656.25
+        },
+        {
+          "node": "Vanessa Redgrave",
+          "weight": 22753906.25
+        },
+        {
+          "node": "Maximilian Schell",
+          "weight": 11832031.25
+        },
+        {
+          "node": "Robert Duvall",
+          "weight": 6371093.75
+        }
+      ]
+    },
+    {
+      "name": "Nurse Betty",
+      "box_office": 29400000.0,
+      "year": 2000,
+      "adjacency_list": [
+        {
+          "node": "Renée Zellweger",
+          "weight": 14776562.5
+        },
+        {
+          "node": "Aaron Eckhart",
+          "weight": 7426562.5
+        },
+        {
+          "node": "Chris Rock",
+          "weight": 3751562.5
+        },
+        {
+          "node": "Crispin Glover",
+          "weight": 1914062.5
+        },
+        {
+          "node": "Greg Kinnear",
+          "weight": 995312.5
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 535937.5
+        }
+      ]
+    },
+    {
+      "name": "Along Came a Spider",
+      "box_office": 105200000.0,
+      "year": 2001,
+      "adjacency_list": [
+        {
+          "node": "Monica Potter",
+          "weight": 53257500.0
+        },
+        {
+          "node": "Penelope Ann Miller",
+          "weight": 26957500.0
+        },
+        {
+          "node": "Michael Wincott",
+          "weight": 13807500.0
+        },
+        {
+          "node": "Michael Moriarty",
+          "weight": 7232500.0
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 3945000.0
+        }
+      ]
+    },
+    {
+      "name": "The Sum of All Fears",
+      "box_office": 193900000.0,
+      "year": 2002,
+      "adjacency_list": [
+        {
+          "node": "Bridget Moynahan",
+          "weight": 97166406.25
+        },
+        {
+          "node": "Liev Schreiber",
+          "weight": 48691406.25
+        },
+        {
+          "node": "Bruce McGill",
+          "weight": 24453906.25
+        },
+        {
+          "node": "James Cromwell",
+          "weight": 12335156.25
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 6275781.25
+        },
+        {
+          "node": "Alan Bates",
+          "weight": 3246093.75
+        },
+        {
+          "node": "Philip Baker Hall",
+          "weight": 1731250.0
+        }
+      ]
+    },
+    {
+      "name": "High Crimes",
+      "box_office": 63800000.0,
+      "year": 2002,
+      "adjacency_list": [
+        {
+          "node": "Jim Caviezel",
+          "weight": 39875000.0
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 23925000.0
+        }
+      ]
+    },
+    {
+      "name": "Bruce Almighty",
+      "box_office": 484600000.0,
+      "year": 2003,
+      "adjacency_list": [
+        {
+          "node": "Catherine Bell",
+          "weight": 243561979.16666666
+        },
+        {
+          "node": "Jennifer Aniston",
+          "weight": 122411979.16666667
+        },
+        {
+          "node": "Lisa Ann Walter",
+          "weight": 61836979.166666664
+        },
+        {
+          "node": "Steve Carell",
+          "weight": 31549479.166666668
+        },
+        {
+          "node": "Jim Carrey",
+          "weight": 16405729.166666666
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 8833854.166666666
+        }
+      ]
+    },
+    {
+      "name": "Million Dollar Baby",
+      "box_office": 216800000.0,
+      "year": 2004,
+      "adjacency_list": [
+        {
+          "node": "Hilary Swank",
+          "weight": 135500000.0
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 81300000.0
+        }
+      ]
+    },
+    {
+      "name": "Unleashed",
+      "box_office": 50900000.0,
+      "year": 2005,
+      "adjacency_list": [
+        {
+          "node": "Kerry Condon",
+          "weight": 27570833.333333332
+        },
+        {
+          "node": "Bob Hoskins",
+          "weight": 14845833.333333334
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 8483333.333333334
+        }
+      ]
+    },
+    {
+      "name": "An Unfinished Life",
+      "box_office": 18600000.0,
+      "year": 2005,
+      "adjacency_list": [
+        {
+          "node": "Jennifer Lopez",
+          "weight": 11625000.0
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 6975000.0
+        }
+      ]
+    },
+    {
+      "name": "Batman Begins",
+      "box_office": 374200000.0,
+      "year": 2005,
+      "adjacency_list": [
+        {
+          "node": "Katie Holmes",
+          "weight": 187136542.96875
+        },
+        {
+          "node": "Cillian Murphy",
+          "weight": 93586542.96875
+        },
+        {
+          "node": "Christian Bale",
+          "weight": 46811542.96875
+        },
+        {
+          "node": "Ken Watanabe",
+          "weight": 23424042.96875
+        },
+        {
+          "node": "Gary Oldman",
+          "weight": 11730292.96875
+        },
+        {
+          "node": "Liam Neeson",
+          "weight": 5883417.96875
+        },
+        {
+          "node": "Tom Wilkinson",
+          "weight": 2959980.46875
+        },
+        {
+          "node": "Rutger Hauer",
+          "weight": 1498261.71875
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 767402.34375
+        },
+        {
+          "node": "Michael Caine",
+          "weight": 401972.65625
+        }
+      ]
+    },
+    {
+      "name": "Lucky Number Slevin",
+      "box_office": 56300000.0,
+      "year": 2006,
+      "adjacency_list": [
+        {
+          "node": "Lucy Liu",
+          "weight": 28501875.0
+        },
+        {
+          "node": "Stanley Tucci",
+          "weight": 14426875.0
+        },
+        {
+          "node": "Bruce Willis",
+          "weight": 7389375.0
+        },
+        {
+          "node": "Ben Kingsley",
+          "weight": 3870625.0
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 2111250.0
+        }
+      ]
+    },
+    {
+      "name": "10 Items or Less",
+      "box_office": 1399222.0,
+      "year": 2006,
+      "adjacency_list": [
+        {
+          "node": "Paz Vega",
+          "weight": 757911.9166666666
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 408106.4166666667
+        },
+        {
+          "node": "Kumar Pallana",
+          "weight": 233203.66666666666
+        }
+      ]
+    },
+    {
+      "name": "Evan Almighty",
+      "box_office": 173400000.0,
+      "year": 2007,
+      "adjacency_list": [
+        {
+          "node": "Lauren Graham",
+          "weight": 87151562.5
+        },
+        {
+          "node": "Wanda Sykes",
+          "weight": 43801562.5
+        },
+        {
+          "node": "Molly Shannon",
+          "weight": 22126562.5
+        },
+        {
+          "node": "John Michael Higgins",
+          "weight": 11289062.5
+        },
+        {
+          "node": "John Goodman",
+          "weight": 5870312.5
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 3160937.5
+        }
+      ]
+    },
+    {
+      "name": "Gone, Baby, Gone",
+      "box_office": 34600000.0,
+      "year": 2007,
+      "adjacency_list": [
+        {
+          "node": "Edi Gathegi",
+          "weight": 17316894.53125
+        },
+        {
+          "node": "Michelle Monaghan",
+          "weight": 8666894.53125
+        },
+        {
+          "node": "Casey Affleck",
+          "weight": 4341894.53125
+        },
+        {
+          "node": "Amy Ryan",
+          "weight": 2179394.53125
+        },
+        {
+          "node": "Titus Welliver",
+          "weight": 1098144.53125
+        },
+        {
+          "node": "Amy Madigan",
+          "weight": 557519.53125
+        },
+        {
+          "node": "Ed Harris",
+          "weight": 287207.03125
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 152050.78125
+        }
+      ]
+    },
+    {
+      "name": "The Bucket List",
+      "box_office": 175400000.0,
+      "year": 2007,
+      "adjacency_list": [
+        {
+          "node": "Jack Nicholson",
+          "weight": 109625000.0
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 65775000.0
+        }
+      ]
+    },
+    {
+      "name": "Wanted",
+      "box_office": 341400000.0,
+      "year": 2008,
+      "adjacency_list": [
+        {
+          "node": "James McAvoy",
+          "weight": 171589062.5
+        },
+        {
+          "node": "Angelina Jolie",
+          "weight": 86239062.5
+        },
+        {
+          "node": "Common",
+          "weight": 43564062.5
+        },
+        {
+          "node": "Thomas Kretschmann",
+          "weight": 22226562.5
+        },
+        {
+          "node": "Terence Stamp",
+          "weight": 11557812.5
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 6223437.5
+        }
+      ]
+    },
+    {
+      "name": "The Dark Knight",
+      "box_office": 1004999999.9999999,
+      "year": 2008,
+      "adjacency_list": [
+        {
+          "node": "Heath Ledger",
+          "weight": 544374999.9999999
+        },
+        {
+          "node": "Maggie Gyllenhaal",
+          "weight": 293124999.99999994
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 167499999.99999997
+        }
+      ]
+    },
+    {
+      "name": "Invictus",
+      "box_office": 122200000.0,
+      "year": 2009,
+      "adjacency_list": [
+        {
+          "node": "Morgan Freeman",
+          "weight": 122200000.0
+        }
+      ]
+    },
+    {
+      "name": "RED",
+      "box_office": 199000000.0,
+      "year": 2010,
+      "adjacency_list": [
+        {
+          "node": "Karl Urban",
+          "weight": 102609375.0
+        },
+        {
+          "node": "Mary-Louise Parker",
+          "weight": 52859375.0
+        },
+        {
+          "node": "Helen Mirren",
+          "weight": 27984375.0
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 15546875.0
+        }
+      ]
+    },
+    {
+      "name": "Dolphin Tale",
+      "box_office": 95900000.0,
+      "year": 2011,
+      "adjacency_list": [
+        {
+          "node": "Cozi Zuehlsdorff",
+          "weight": 48549375.0
+        },
+        {
+          "node": "Nathan Gamble",
+          "weight": 24574375.0
+        },
+        {
+          "node": "Harry Connick, Jr",
+          "weight": 12586875.0
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 6593125.0
+        },
+        {
+          "node": "Kris Kristofferson",
+          "weight": 3596250.0
+        }
+      ]
+    },
+    {
+      "name": "The Dark Knight Rises",
+      "box_office": 1085000000.0,
+      "year": 2012,
+      "adjacency_list": [
+        {
+          "node": "Joseph Gordon-Levitt",
+          "weight": 559453125.0
+        },
+        {
+          "node": "Tom Hardy",
+          "weight": 288203125.0
+        },
+        {
+          "node": "Marion Cotillard",
+          "weight": 152578125.0
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 84765625.0
+        }
+      ]
+    },
+    {
+      "name": "The Magic of Belle Isle",
+      "box_office": 102388.0,
+      "year": 2012,
+      "adjacency_list": [
+        {
+          "node": "Nicolette Pierini",
+          "weight": 51243.994140625
+        },
+        {
+          "node": "Emma Fuhrmann",
+          "weight": 25646.994140625
+        },
+        {
+          "node": "Madeline Carroll",
+          "weight": 12848.494140625
+        },
+        {
+          "node": "Kenan Thompson",
+          "weight": 6449.244140625
+        },
+        {
+          "node": "Virginia Madsen",
+          "weight": 3249.619140625
+        },
+        {
+          "node": "Kevin Pollak",
+          "weight": 1649.806640625
+        },
+        {
+          "node": "Fred Willard",
+          "weight": 849.900390625
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 449.947265625
+        }
+      ]
+    },
+    {
+      "name": "Olympus Has Fallen",
+      "box_office": 170200000.0,
+      "year": 2013,
+      "adjacency_list": [
+        {
+          "node": "Cole Hauser",
+          "weight": 85136935.7638889
+        },
+        {
+          "node": "Radha Mitchell",
+          "weight": 42586935.76388889
+        },
+        {
+          "node": "Rick Yune",
+          "weight": 21311935.763888888
+        },
+        {
+          "node": "Gerard Butler",
+          "weight": 10674435.763888888
+        },
+        {
+          "node": "Dylan McDermott",
+          "weight": 5355685.763888889
+        },
+        {
+          "node": "Melissa Leo",
+          "weight": 2696310.763888889
+        },
+        {
+          "node": "Angela Bassett",
+          "weight": 1366623.263888889
+        },
+        {
+          "node": "Robert Forster",
+          "weight": 701779.5138888889
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 369357.6388888889
+        }
+      ]
+    },
+    {
+      "name": "Oblivion",
+      "box_office": 286200000.0,
+      "year": 2013,
+      "adjacency_list": [
+        {
+          "node": "Andrea Riseborough",
+          "weight": 147571875.0
+        },
+        {
+          "node": "Olga Kurylenko",
+          "weight": 76021875.0
+        },
+        {
+          "node": "Nikolaj Coster-Waldau",
+          "weight": 40246875.0
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 22359375.0
+        }
+      ]
+    },
+    {
+      "name": "Now You See Me",
+      "box_office": 351700000.0,
+      "year": 2013,
+      "adjacency_list": [
+        {
+          "node": "Dave Franco",
+          "weight": 176765885.41666666
+        },
+        {
+          "node": "Jesse Eisenberg",
+          "weight": 88840885.41666667
+        },
+        {
+          "node": "Isla Fisher",
+          "weight": 44878385.416666664
+        },
+        {
+          "node": "Mark Ruffalo",
+          "weight": 22897135.416666668
+        },
+        {
+          "node": "Woody Harrelson",
+          "weight": 11906510.416666666
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 6411197.916666667
+        }
+      ]
+    },
+    {
+      "name": "Last Vegas",
+      "box_office": 134400000.0,
+      "year": 2013,
+      "adjacency_list": [
+        {
+          "node": "Mary Steenburgen",
+          "weight": 69300000.0
+        },
+        {
+          "node": "Kevin Kline",
+          "weight": 35700000.0
+        },
+        {
+          "node": "Robert De Niro",
+          "weight": 18900000.0
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 10500000.0
+        }
+      ]
+    },
+    {
+      "name": "The Lego Movie",
+      "box_office": 470000000.0,
+      "year": 2014,
+      "adjacency_list": [
+        {
+          "node": "Alison Brie",
+          "weight": 235229492.1875
+        },
+        {
+          "node": "Chris Pratt",
+          "weight": 117729492.1875
+        },
+        {
+          "node": "Charlie Day",
+          "weight": 58979492.1875
+        },
+        {
+          "node": "Elizabeth Banks",
+          "weight": 29604492.1875
+        },
+        {
+          "node": "Nick Offerman",
+          "weight": 14916992.1875
+        },
+        {
+          "node": "Will Arnett",
+          "weight": 7573242.1875
+        },
+        {
+          "node": "Will Ferrell",
+          "weight": 3901367.1875
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 2065429.6875
+        }
+      ]
+    },
+    {
+      "name": "Transcendence",
+      "box_office": 103000000.0,
+      "year": 2014,
+      "adjacency_list": [
+        {
+          "node": "Rebecca Hall",
+          "weight": 53109375.0
+        },
+        {
+          "node": "Kate Mara",
+          "weight": 27359375.0
+        },
+        {
+          "node": "Paul Bettany",
+          "weight": 14484375.0
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 8046875.0
+        }
+      ]
+    },
+    {
+      "name": "Lucy",
+      "box_office": 463400000.0,
+      "year": 2014,
+      "adjacency_list": [
+        {
+          "node": "Amr Waked",
+          "weight": 251008333.33333334
+        },
+        {
+          "node": "Choi Min-sik",
+          "weight": 135158333.33333334
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 77233333.33333333
+        }
+      ]
+    },
+    {
+      "name": "Dolphin Tale 2",
+      "box_office": 57800000.0,
+      "year": 2014,
+      "adjacency_list": [
+        {
+          "node": "Harry Connick Jr.",
+          "weight": 36125000.0
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 21675000.0
+        }
+      ]
+    },
+    {
+      "name": "Momentum",
+      "box_office": 104136.0,
+      "year": 2015,
+      "adjacency_list": [
+        {
+          "node": "James Purefoy",
+          "weight": 65085.0
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 39051.0
+        }
+      ]
+    },
+    {
+      "name": "Ted 2",
+      "box_office": 216700000.0,
+      "year": 2015,
+      "adjacency_list": [
+        {
+          "node": "Amanda Seyfried",
+          "weight": 109704375.0
+        },
+        {
+          "node": "Giovanni Ribisi",
+          "weight": 55529375.0
+        },
+        {
+          "node": "Mark Wahlberg",
+          "weight": 28441875.0
+        },
+        {
+          "node": "John Slattery",
+          "weight": 14898125.0
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 8126250.0
+        }
+      ]
+    },
+    {
+      "name": "London Has Fallen",
+      "box_office": 205700000.0,
+      "year": 2016,
+      "adjacency_list": [
+        {
+          "node": "Alon Moni Aboutboul",
+          "weight": 111420833.33333333
+        },
+        {
+          "node": "Jackie Earle Haley",
+          "weight": 59995833.333333336
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 34283333.333333336
+        }
+      ]
+    },
+    {
+      "name": "Now You See Me 2",
+      "box_office": 334900000.0,
+      "year": 2016,
+      "adjacency_list": [
+        {
+          "node": "Daniel Radcliffe",
+          "weight": 169543125.0
+        },
+        {
+          "node": "Lizzy Caplan",
+          "weight": 85818125.0
+        },
+        {
+          "node": "Jay Chou",
+          "weight": 43955625.0
+        },
+        {
+          "node": "Sanaa Lathan",
+          "weight": 23024375.0
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 12558750.0
+        }
+      ]
+    },
+    {
+      "name": "Going In Style",
+      "box_office": 84900000.0,
+      "year": 2017,
+      "adjacency_list": [
+        {
+          "node": "Joey King",
+          "weight": 42671093.75
+        },
+        {
+          "node": "Matt Dillon",
+          "weight": 21446093.75
+        },
+        {
+          "node": "Ann-Margret",
+          "weight": 10833593.75
+        },
+        {
+          "node": "Christopher Lloyd",
+          "weight": 5527343.75
+        },
+        {
+          "node": "Morgan Freeman",
+          "weight": 2874218.75
+        },
+        {
+          "node": "Alan Arkin",
+          "weight": 1547656.25
+        }
+      ]
+    },
+    {
+      "name": "The Thomas Crown Affair",
+      "box_office": 14000000.0,
+      "year": 1968,
+      "adjacency_list": [
+        {
+          "node": "Faye Dunaway",
+          "weight": 7583333.333333333
+        },
+        {
+          "node": "Yaphet Kotto",
+          "weight": 4083333.3333333335
+        },
+        {
+          "node": "Steve McQueen",
+          "weight": 2333333.3333333335
+        }
+      ]
+    },
+    {
+      "name": "5 Card Stud",
+      "box_office": 3500000.0,
+      "year": 1968,
+      "adjacency_list": [
+        {
+          "node": "Yaphet Kotto",
+          "weight": 1804687.5
+        },
+        {
+          "node": "Inger Stevens",
+          "weight": 929687.5
+        },
+        {
+          "node": "Robert Mitchum",
+          "weight": 492187.5
+        },
+        {
+          "node": "Dean Martin",
+          "weight": 273437.5
+        }
+      ]
+    },
+    {
+      "name": "The Liberation of L.B. Jones",
+      "box_office": 1300000.0,
+      "year": 1970,
+      "adjacency_list": [
+        {
+          "node": "Barbara Hershey",
+          "weight": 651450.8928571428
+        },
+        {
+          "node": "Lola Falana",
+          "weight": 326450.89285714284
+        },
+        {
+          "node": "Lee Majors",
+          "weight": 163950.89285714287
+        },
+        {
+          "node": "Yaphet Kotto",
+          "weight": 82700.89285714286
+        },
+        {
+          "node": "Roscoe Lee Browne",
+          "weight": 42075.892857142855
+        },
+        {
+          "node": "Eve McVeagh",
+          "weight": 21763.39285714286
+        },
+        {
+          "node": "Lee J. Cobb",
+          "weight": 11607.142857142857
+        }
+      ]
+    },
+    {
+      "name": "Across 110th Street",
+      "box_office": 10000000.0,
+      "year": 1972,
+      "adjacency_list": [
+        {
+          "node": "Yaphet Kotto",
+          "weight": 10000000.0
+        }
+      ]
+    },
+    {
+      "name": "Live and Let Die",
+      "box_office": 161800000.0,
+      "year": 1973,
+      "adjacency_list": [
+        {
+          "node": "Jane Seymour",
+          "weight": 83428125.0
+        },
+        {
+          "node": "Yaphet Kotto",
+          "weight": 42978125.0
+        },
+        {
+          "node": "Roger Moore",
+          "weight": 22753125.0
+        },
+        {
+          "node": "Julius Harris",
+          "weight": 12640625.0
+        }
+      ]
+    },
+    {
+      "name": "Truck Turner",
+      "box_office": 2230000.0,
+      "year": 1974,
+      "adjacency_list": [
+        {
+          "node": "Isaac Hayes",
+          "weight": 1207916.6666666667
+        },
+        {
+          "node": "Yaphet Kotto",
+          "weight": 650416.6666666666
+        },
+        {
+          "node": "Nichelle Nichols",
+          "weight": 371666.6666666667
+        }
+      ]
+    },
+    {
+      "name": "Alien",
+      "box_office": 104900000.0,
+      "year": 1979,
+      "adjacency_list": [
+        {
+          "node": "Sigourney Weaver",
+          "weight": 52723177.083333336
+        },
+        {
+          "node": "Veronica Cartwright",
+          "weight": 26498177.083333332
+        },
+        {
+          "node": "John Hurt",
+          "weight": 13385677.083333334
+        },
+        {
+          "node": "Yaphet Kotto",
+          "weight": 6829427.083333333
+        },
+        {
+          "node": "Tom Skerritt",
+          "weight": 3551302.0833333335
+        },
+        {
+          "node": "Ian Holm",
+          "weight": 1912239.5833333333
+        }
+      ]
+    },
+    {
+      "name": "Fighting Back",
+      "box_office": 3355948.0,
+      "year": 1982,
+      "adjacency_list": [
+        {
+          "node": "Michael Sarrazin",
+          "weight": 2097467.5
+        },
+        {
+          "node": "Yaphet Kotto",
+          "weight": 1258480.5
+        }
+      ]
+    },
+    {
+      "name": "The Star Chamber",
+      "box_office": 5600000.0,
+      "year": 1983,
+      "adjacency_list": [
+        {
+          "node": "Sharon Gless",
+          "weight": 3033333.3333333335
+        },
+        {
+          "node": "Yaphet Kotto",
+          "weight": 1633333.3333333333
+        },
+        {
+          "node": "Hal Holbrook",
+          "weight": 933333.3333333334
+        }
+      ]
+    },
+    {
+      "name": "Terror in the Aisles",
+      "box_office": 10004817.0,
+      "year": 1984,
+      "adjacency_list": [
+        {
+          "node": "Nancy Allen",
+          "weight": 5419275.875
+        },
+        {
+          "node": "Yaphet Kotto",
+          "weight": 2918071.625
+        },
+        {
+          "node": "Donald Pleasence",
+          "weight": 1667469.5
+        }
+      ]
+    },
+    {
+      "name": "Warning Sign",
+      "box_office": 1918117.0,
+      "year": 1985,
+      "adjacency_list": [
+        {
+          "node": "Kathleen Quinlan",
+          "weight": 989029.078125
+        },
+        {
+          "node": "Jeffrey DeMunn",
+          "weight": 509499.828125
+        },
+        {
+          "node": "Sam Waterston",
+          "weight": 269735.203125
+        },
+        {
+          "node": "Yaphet Kotto",
+          "weight": 149852.890625
+        }
+      ]
+    },
+    {
+      "name": "The Running Man",
+      "box_office": 38000000.0,
+      "year": 1987,
+      "adjacency_list": [
+        {
+          "node": "María Conchita Alonso",
+          "weight": 19593750.0
+        },
+        {
+          "node": "Arnold Schwarzenegger",
+          "weight": 10093750.0
+        },
+        {
+          "node": "Yaphet Kotto",
+          "weight": 5343750.0
+        },
+        {
+          "node": "Richard Dawson",
+          "weight": 2968750.0
+        }
+      ]
+    },
+    {
+      "name": "Midnight Run",
+      "box_office": 81600000.0,
+      "year": 1988,
+      "adjacency_list": [
+        {
+          "node": "Yaphet Kotto",
+          "weight": 51000000.0
+        },
+        {
+          "node": "Charles Grodin",
+          "weight": 30600000.0
+        }
+      ]
+    },
+    {
+      "name": "Freddy's Dead: The Final Nightmare",
+      "box_office": 34900000.0,
+      "year": 1991,
+      "adjacency_list": [
+        {
+          "node": "Shon Greenblatt",
+          "weight": 17668125.0
+        },
+        {
+          "node": "Lezlie Deane",
+          "weight": 8943125.0
+        },
+        {
+          "node": "Lisa Zane",
+          "weight": 4580625.0
+        },
+        {
+          "node": "Robert Englund",
+          "weight": 2399375.0
+        },
+        {
+          "node": "Yaphet Kotto",
+          "weight": 1308750.0
+        }
+      ]
+    },
+    {
+      "name": "The Puppet Masters",
+      "box_office": 8647042.0,
+      "year": 1994,
+      "adjacency_list": [
+        {
+          "node": "Julie Warner",
+          "weight": 4683814.416666667
+        },
+        {
+          "node": "Yaphet Kotto",
+          "weight": 2522053.9166666665
+        },
+        {
+          "node": "Donald Sutherland",
+          "weight": 1441173.6666666667
+        }
+      ]
+    },
+    {
+      "name": "Two If by Sea",
+      "box_office": 10700000.0,
+      "year": 1996,
+      "adjacency_list": [
+        {
+          "node": "Stephen Dillane",
+          "weight": 5795833.333333333
+        },
+        {
+          "node": "Mike Starr",
+          "weight": 3120833.3333333335
+        },
+        {
+          "node": "Yaphet Kotto",
+          "weight": 1783333.3333333333
+        }
+      ]
+    },
+    {
+      "name": "Witless Protection",
+      "box_office": 4161625.0,
+      "year": 2008,
+      "adjacency_list": [
+        {
+          "node": "Ivana Miličević",
+          "weight": 2106822.65625
+        },
+        {
+          "node": "Jenny McCarthy",
+          "weight": 1066416.40625
+        },
+        {
+          "node": "Larry the Cable Guy",
+          "weight": 546213.28125
+        },
+        {
+          "node": "Joe Mantegna",
+          "weight": 286111.71875
+        },
+        {
+          "node": "Yaphet Kotto",
+          "weight": 156060.9375
+        }
+      ]
+    },
+    {
+      "name": "The Great Santini",
+      "box_office": 4700000.0,
+      "year": 1979,
+      "adjacency_list": [
+        {
+          "node": "Michael O'Keefe",
+          "weight": 2545833.3333333335
+        },
+        {
+          "node": "David Keith",
+          "weight": 1370833.3333333333
+        },
+        {
+          "node": "Blythe Danner",
+          "weight": 783333.3333333334
+        }
+      ]
+    },
+    {
+      "name": "The Rose",
+      "box_office": 29200000.0,
+      "year": 1979,
+      "adjacency_list": [
+        {
+          "node": "David Keith",
+          "weight": 15816666.666666666
+        },
+        {
+          "node": "Bette Midler",
+          "weight": 8516666.666666666
+        },
+        {
+          "node": "Frederic Forrest",
+          "weight": 4866666.666666667
+        }
+      ]
+    },
+    {
+      "name": "Back Roads",
+      "box_office": 11800000.0,
+      "year": 1981,
+      "adjacency_list": [
+        {
+          "node": "David Keith",
+          "weight": 6391666.666666667
+        },
+        {
+          "node": "Tommy Lee Jones",
+          "weight": 3441666.6666666665
+        },
+        {
+          "node": "Sally Field",
+          "weight": 1966666.6666666667
+        }
+      ]
+    },
+    {
+      "name": "Take This Job and Shove It",
+      "box_office": 17569030.0,
+      "year": 1981,
+      "adjacency_list": [
+        {
+          "node": "David Keith",
+          "weight": 8804123.292410715
+        },
+        {
+          "node": "Penelope Milford",
+          "weight": 4411865.792410715
+        },
+        {
+          "node": "Robert Hays",
+          "weight": 2215737.042410714
+        },
+        {
+          "node": "Tim Thomerson",
+          "weight": 1117672.6674107143
+        },
+        {
+          "node": "Martin Mull",
+          "weight": 568640.4799107143
+        },
+        {
+          "node": "Art Carney",
+          "weight": 294124.38616071426
+        },
+        {
+          "node": "Eddie Albert",
+          "weight": 156866.3392857143
+        }
+      ]
+    },
+    {
+      "name": "An Officer and a Gentleman",
+      "box_office": 131000000.0,
+      "year": 1982,
+      "adjacency_list": [
+        {
+          "node": "Debra Winger",
+          "weight": 67546875.0
+        },
+        {
+          "node": "David Keith",
+          "weight": 34796875.0
+        },
+        {
+          "node": "Richard Gere",
+          "weight": 18421875.0
+        },
+        {
+          "node": "Louis Gossett Jr.",
+          "weight": 10234375.0
+        }
+      ]
+    },
+    {
+      "name": "The Lords of Discipline",
+      "box_office": 11787127.0,
+      "year": 1983,
+      "adjacency_list": [
+        {
+          "node": "David Keith",
+          "weight": 6384693.791666667
+        },
+        {
+          "node": "Robert Prosky",
+          "weight": 3437912.0416666665
+        },
+        {
+          "node": "G. D. Spradlin",
+          "weight": 1964521.1666666667
+        }
+      ]
+    },
+    {
+      "name": "Independence Day",
+      "box_office": 151462.0,
+      "year": 1983,
+      "adjacency_list": [
+        {
+          "node": "David Keith",
+          "weight": 94663.75
+        },
+        {
+          "node": "Dianne Wiest",
+          "weight": 56798.25
+        }
+      ]
+    },
+    {
+      "name": "Firestarter",
+      "box_office": 17100000.0,
+      "year": 1984,
+      "adjacency_list": [
+        {
+          "node": "Drew Barrymore",
+          "weight": 8594531.25
+        },
+        {
+          "node": "Heather Locklear",
+          "weight": 4319531.25
+        },
+        {
+          "node": "David Keith",
+          "weight": 2182031.25
+        },
+        {
+          "node": "Martin Sheen",
+          "weight": 1113281.25
+        },
+        {
+          "node": "Louise Fletcher",
+          "weight": 578906.25
+        },
+        {
+          "node": "Freddie Jones",
+          "weight": 311718.75
+        }
+      ]
+    },
+    {
+      "name": "The Two Jakes",
+      "box_office": 10000000.0,
+      "year": 1990,
+      "adjacency_list": [
+        {
+          "node": "Meg Tilly",
+          "weight": 5062500.0
+        },
+        {
+          "node": "Madeleine Stowe",
+          "weight": 2562500.0
+        },
+        {
+          "node": "David Keith",
+          "weight": 1312500.0
+        },
+        {
+          "node": "Rubén Blades",
+          "weight": 687500.0
+        },
+        {
+          "node": "Harvey Keitel",
+          "weight": 375000.0
+        }
+      ]
+    },
+    {
+      "name": "Major League II",
+      "box_office": 30626182.0,
+      "year": 1994,
+      "adjacency_list": [
+        {
+          "node": "Omar Epps",
+          "weight": 15316081.838085938
+        },
+        {
+          "node": "Michelle Burke",
+          "weight": 7659536.338085937
+        },
+        {
+          "node": "Eric Bruskotter",
+          "weight": 3831263.5880859373
+        },
+        {
+          "node": "Charlie Sheen",
+          "weight": 1917127.2130859375
+        },
+        {
+          "node": "Dennis Haysbert",
+          "weight": 960059.0255859375
+        },
+        {
+          "node": "Corbin Bernsen",
+          "weight": 481524.9318359375
+        },
+        {
+          "node": "David Keith",
+          "weight": 242257.8849609375
+        },
+        {
+          "node": "Tom Berenger",
+          "weight": 122624.3615234375
+        },
+        {
+          "node": "Margaret Whitton",
+          "weight": 62807.5998046875
+        },
+        {
+          "node": "James Gammon",
+          "weight": 32899.2189453125
+        }
+      ]
+    },
+    {
+      "name": "Raw Justice",
+      "box_office": 35254617.0,
+      "year": 1994,
+      "adjacency_list": [
+        {
+          "node": "Pamela Anderson",
+          "weight": 19096250.875
+        },
+        {
+          "node": "David Keith",
+          "weight": 10282596.625
+        },
+        {
+          "node": "Stacy Keach",
+          "weight": 5875769.5
+        }
+      ]
+    },
+    {
+      "name": "The Indian in the Cupboard",
+      "box_office": 35700000.0,
+      "year": 1995,
+      "adjacency_list": [
+        {
+          "node": "Hal Scardino",
+          "weight": 17942968.75
+        },
+        {
+          "node": "Litefoot",
+          "weight": 9017968.75
+        },
+        {
+          "node": "Steve Coogan",
+          "weight": 4555468.75
+        },
+        {
+          "node": "David Keith",
+          "weight": 2324218.75
+        },
+        {
+          "node": "Lindsay Crouse",
+          "weight": 1208593.75
+        },
+        {
+          "node": "Richard Jenkins",
+          "weight": 650781.25
+        }
+      ]
+    },
+    {
+      "name": "Gold Diggers: The Secret of Bear Mountain",
+      "box_office": 6029091.0,
+      "year": 1995,
+      "adjacency_list": [
+        {
+          "node": "Anna Chlumsky",
+          "weight": 3108750.046875
+        },
+        {
+          "node": "Christina Ricci",
+          "weight": 1601477.296875
+        },
+        {
+          "node": "Diana Scarwid",
+          "weight": 847840.921875
+        },
+        {
+          "node": "David Keith",
+          "weight": 471022.734375
+        }
+      ]
+    },
+    {
+      "name": "A Family Thing",
+      "box_office": 10125417.0,
+      "year": 1996,
+      "adjacency_list": [
+        {
+          "node": "David Keith",
+          "weight": 10125417.0
+        }
+      ]
+    },
+    {
+      "name": "U-571",
+      "box_office": 127000000.0,
+      "year": 2000,
+      "adjacency_list": [
+        {
+          "node": "Matthew Settle",
+          "weight": 63830729.166666664
+        },
+        {
+          "node": "Erik Palladino",
+          "weight": 32080729.166666668
+        },
+        {
+          "node": "Jake Weber",
+          "weight": 16205729.166666666
+        },
+        {
+          "node": "Jon Bon Jovi",
+          "weight": 8268229.166666667
+        },
+        {
+          "node": "Bill Paxton",
+          "weight": 4299479.166666667
+        },
+        {
+          "node": "David Keith",
+          "weight": 2315104.1666666665
+        }
+      ]
+    },
+    {
+      "name": "Men of Honor",
+      "box_office": 82343495.0,
+      "year": 2000,
+      "adjacency_list": [
+        {
+          "node": "Charlize Theron",
+          "weight": 41386183.684895836
+        },
+        {
+          "node": "Michael Rapaport",
+          "weight": 20800309.934895832
+        },
+        {
+          "node": "Aunjanue Ellis",
+          "weight": 10507373.059895834
+        },
+        {
+          "node": "Cuba Gooding Jr.",
+          "weight": 5360904.622395833
+        },
+        {
+          "node": "David Keith",
+          "weight": 2787670.4036458335
+        },
+        {
+          "node": "Powers Boothe",
+          "weight": 1501053.2942708333
+        }
+      ]
+    },
+    {
+      "name": "Behind Enemy Lines",
+      "box_office": 92000000.0,
+      "year": 2001,
+      "adjacency_list": [
+        {
+          "node": "Gabriel Macht",
+          "weight": 46575000.0
+        },
+        {
+          "node": "Owen Wilson",
+          "weight": 23575000.0
+        },
+        {
+          "node": "Joaquim de Almeida",
+          "weight": 12075000.0
+        },
+        {
+          "node": "David Keith",
+          "weight": 6325000.0
+        },
+        {
+          "node": "Olek Krupa",
+          "weight": 3450000.0
+        }
+      ]
+    },
+    {
+      "name": "Daredevil",
+      "box_office": 179200000.0,
+      "year": 2003,
+      "adjacency_list": [
+        {
+          "node": "Colin Farrell",
+          "weight": 90720000.0
+        },
+        {
+          "node": "Jennifer Garner",
+          "weight": 45920000.0
+        },
+        {
+          "node": "Jon Favreau",
+          "weight": 23520000.0
+        },
+        {
+          "node": "Michael Clarke Duncan",
+          "weight": 12320000.0
+        },
+        {
+          "node": "David Keith",
+          "weight": 6720000.0
+        }
+      ]
+    },
+    {
+      "name": "Hangman's Curse",
+      "box_office": 168406.0,
+      "year": 2003,
+      "adjacency_list": [
+        {
+          "node": "Leighton Meester",
+          "weight": 85255.5375
+        },
+        {
+          "node": "Douglas Smith",
+          "weight": 43154.0375
+        },
+        {
+          "node": "William R. Moses",
+          "weight": 22103.2875
+        },
+        {
+          "node": "David Keith",
+          "weight": 11577.9125
+        },
+        {
+          "node": "Frank Peretti",
+          "weight": 6315.225
+        }
+      ]
+    },
+    {
+      "name": "Raise Your Voice",
+      "box_office": 14867514.0,
+      "year": 2004,
+      "adjacency_list": [
+        {
+          "node": "Lauren C. Mayhew",
+          "weight": 7434416.957120028
+        },
+        {
+          "node": "Hilary Duff",
+          "weight": 3717538.4571200283
+        },
+        {
+          "node": "Kat Dennings",
+          "weight": 1859099.2071200283
+        },
+        {
+          "node": "Oliver James",
+          "weight": 929879.5821200284
+        },
+        {
+          "node": "Jason Ritter",
+          "weight": 465269.7696200284
+        },
+        {
+          "node": "Dana Davis",
+          "weight": 232964.8633700284
+        },
+        {
+          "node": "John Corbett",
+          "weight": 116812.41024502841
+        },
+        {
+          "node": "Rebecca De Mornay",
+          "weight": 58736.18368252841
+        },
+        {
+          "node": "Rita Wilson",
+          "weight": 29698.070401278408
+        },
+        {
+          "node": "David Keith",
+          "weight": 15179.01376065341
+        },
+        {
+          "node": "James Avery",
+          "weight": 7919.485440340909
+        }
+      ]
+    },
+    {
+      "name": "Coal Miner's Daughter",
+      "box_office": 67182787.0,
+      "year": 1980,
+      "adjacency_list": [
+        {
+          "node": "Beverly D'Angelo",
+          "weight": 36390676.291666664
+        },
+        {
+          "node": "Sissy Spacek",
+          "weight": 19594979.541666668
+        },
+        {
+          "node": "Levon Helm",
+          "weight": 11197131.166666666
+        }
+      ]
+    },
+    {
+      "name": "Missing",
+      "box_office": 14000000.0,
+      "year": 1982,
+      "adjacency_list": [
+        {
+          "node": "Melanie Mayron",
+          "weight": 7583333.333333333
+        },
+        {
+          "node": "Sissy Spacek",
+          "weight": 4083333.3333333335
+        },
+        {
+          "node": "Jack Lemmon",
+          "weight": 2333333.3333333335
+        }
+      ]
+    },
+    {
+      "name": "The Man with Two Brains",
+      "box_office": 10353438.0,
+      "year": 1983,
+      "adjacency_list": [
+        {
+          "node": "Kathleen Turner",
+          "weight": 5608112.25
+        },
+        {
+          "node": "Sissy Spacek",
+          "weight": 3019752.75
+        },
+        {
+          "node": "David Warner",
+          "weight": 1725573.0
+        }
+      ]
+    },
+    {
+      "name": "Crimes of the Heart",
+      "box_office": 22905522.0,
+      "year": 1986,
+      "adjacency_list": [
+        {
+          "node": "Tess Harper",
+          "weight": 11810659.78125
+        },
+        {
+          "node": "Sissy Spacek",
+          "weight": 6084279.28125
+        },
+        {
+          "node": "Diane Keaton",
+          "weight": 3221089.03125
+        },
+        {
+          "node": "Sam Shepard",
+          "weight": 1789493.90625
+        }
+      ]
+    },
+    {
+      "name": "The Long Walk Home",
+      "box_office": 4803039.0,
+      "year": 1990,
+      "adjacency_list": [
+        {
+          "node": "Ving Rhames",
+          "weight": 2476566.984375
+        },
+        {
+          "node": "Dylan Baker",
+          "weight": 1275807.234375
+        },
+        {
+          "node": "Whoopi Goldberg",
+          "weight": 675427.359375
+        },
+        {
+          "node": "Sissy Spacek",
+          "weight": 375237.421875
+        }
+      ]
+    },
+    {
+      "name": "Hard Promises",
+      "box_office": 306319.0,
+      "year": 1992,
+      "adjacency_list": [
+        {
+          "node": "Mare Winningham",
+          "weight": 165922.79166666666
+        },
+        {
+          "node": "William Petersen",
+          "weight": 89343.04166666667
+        },
+        {
+          "node": "Sissy Spacek",
+          "weight": 51053.166666666664
+        }
+      ]
+    },
+    {
+      "name": "JFK",
+      "box_office": 205400000.0,
+      "year": 1991,
+      "adjacency_list": [
+        {
+          "node": "Kevin Bacon",
+          "weight": 105909375.0
+        },
+        {
+          "node": "Laurie Metcalf",
+          "weight": 54559375.0
+        },
+        {
+          "node": "Michael Rooker",
+          "weight": 28884375.0
+        },
+        {
+          "node": "Sissy Spacek",
+          "weight": 16046875.0
+        }
+      ]
+    },
+    {
+      "name": "Trading Mom",
+      "box_office": 319123.0,
+      "year": 1994,
+      "adjacency_list": [
+        {
+          "node": "Aaron Michael Metchik",
+          "weight": 164547.796875
+        },
+        {
+          "node": "Sissy Spacek",
+          "weight": 84767.046875
+        },
+        {
+          "node": "André the Giant",
+          "weight": 44876.671875
+        },
+        {
+          "node": "Maureen Stapleton",
+          "weight": 24931.484375
+        }
+      ]
+    },
+    {
+      "name": "The Grass Harp",
+      "box_office": 559677.0,
+      "year": 1996,
+      "adjacency_list": [
+        {
+          "node": "Edward Furlong",
+          "weight": 279893.15595703124
+        },
+        {
+          "node": "Mia Kirshner",
+          "weight": 139973.90595703124
+        },
+        {
+          "node": "Sean Patrick Flanery",
+          "weight": 70014.28095703125
+        },
+        {
+          "node": "Sissy Spacek",
+          "weight": 35034.46845703125
+        },
+        {
+          "node": "Nell Carter",
+          "weight": 17544.56220703125
+        },
+        {
+          "node": "Joe Don Baker",
+          "weight": 8799.60908203125
+        },
+        {
+          "node": "Piper Laurie",
+          "weight": 4427.13251953125
+        },
+        {
+          "node": "Roddy McDowall",
+          "weight": 2240.89423828125
+        },
+        {
+          "node": "Charles Durning",
+          "weight": 1147.77509765625
+        },
+        {
+          "node": "Walter Matthau",
+          "weight": 601.21552734375
+        }
+      ]
+    },
+    {
+      "name": "Affliction",
+      "box_office": 6330054.0,
+      "year": 1997,
+      "adjacency_list": [
+        {
+          "node": "Jim True",
+          "weight": 3181511.515625
+        },
+        {
+          "node": "Willem Dafoe",
+          "weight": 1598998.015625
+        },
+        {
+          "node": "Sissy Spacek",
+          "weight": 807741.265625
+        },
+        {
+          "node": "Mary Beth Hurt",
+          "weight": 412112.890625
+        },
+        {
+          "node": "Nick Nolte",
+          "weight": 214298.703125
+        },
+        {
+          "node": "James Coburn",
+          "weight": 115391.609375
+        }
+      ]
+    },
+    {
+      "name": "Blast from the Past",
+      "box_office": 40300000.0,
+      "year": 1999,
+      "adjacency_list": [
+        {
+          "node": "Alicia Silverstone",
+          "weight": 20401875.0
+        },
+        {
+          "node": "Brendan Fraser",
+          "weight": 10326875.0
+        },
+        {
+          "node": "Dave Foley",
+          "weight": 5289375.0
+        },
+        {
+          "node": "Sissy Spacek",
+          "weight": 2770625.0
+        },
+        {
+          "node": "Christopher Walken",
+          "weight": 1511250.0
+        }
+      ]
+    },
+    {
+      "name": "The Straight Story",
+      "box_office": 6200000.0,
+      "year": 1999,
+      "adjacency_list": [
+        {
+          "node": "Sissy Spacek",
+          "weight": 3875000.0
+        },
+        {
+          "node": "Richard Farnsworth",
+          "weight": 2325000.0
+        }
+      ]
+    },
+    {
+      "name": "In the Bedroom",
+      "box_office": 43400000.0,
+      "year": 2001,
+      "adjacency_list": [
+        {
+          "node": "Nick Stahl",
+          "weight": 23508333.333333332
+        },
+        {
+          "node": "Marisa Tomei",
+          "weight": 12658333.333333334
+        },
+        {
+          "node": "Sissy Spacek",
+          "weight": 7233333.333333333
+        }
+      ]
+    },
+    {
+      "name": "Tuck Everlasting",
+      "box_office": 19344615.0,
+      "year": 2002,
+      "adjacency_list": [
+        {
+          "node": "Jonathan Jackson",
+          "weight": 9693897.472098215
+        },
+        {
+          "node": "Alexis Bledel",
+          "weight": 4857743.722098215
+        },
+        {
+          "node": "Scott Bairstow",
+          "weight": 2439666.847098214
+        },
+        {
+          "node": "Amy Irving",
+          "weight": 1230628.4095982143
+        },
+        {
+          "node": "William Hurt",
+          "weight": 626109.1908482143
+        },
+        {
+          "node": "Victor Garber",
+          "weight": 323849.58147321426
+        },
+        {
+          "node": "Sissy Spacek",
+          "weight": 172719.7767857143
+        }
+      ]
+    },
+    {
+      "name": "Nine Lives",
+      "box_office": 1562923.0,
+      "year": 2005,
+      "adjacency_list": [
+        {
+          "node": "Dakota Fanning",
+          "weight": 781462.9905195236
+        },
+        {
+          "node": "Sydney Tamiia Poitier",
+          "weight": 390732.2405195236
+        },
+        {
+          "node": "Robin Wright Penn",
+          "weight": 195366.86551952362
+        },
+        {
+          "node": "Amy Brenneman",
+          "weight": 97684.17801952362
+        },
+        {
+          "node": "Lisa Gay Hamilton",
+          "weight": 48842.83426952362
+        },
+        {
+          "node": "Jason Isaacs",
+          "weight": 24422.16239452362
+        },
+        {
+          "node": "Elpidia Carrillo",
+          "weight": 12211.82645702362
+        },
+        {
+          "node": "Aidan Quinn",
+          "weight": 6106.658488273621
+        },
+        {
+          "node": "Holly Hunter",
+          "weight": 3054.0745038986206
+        },
+        {
+          "node": "Miguel Sandoval",
+          "weight": 1527.7825117111206
+        },
+        {
+          "node": "Kathy Baker",
+          "weight": 764.6365156173706
+        },
+        {
+          "node": "Sissy Spacek",
+          "weight": 383.0635175704956
+        },
+        {
+          "node": "Glenn Close",
+          "weight": 192.2770185470581
+        },
+        {
+          "node": "Mary Kay Place",
+          "weight": 96.88376903533936
+        },
+        {
+          "node": "Ian McShane",
+          "weight": 49.18714427947998
+        },
+        {
+          "node": "K Callan",
+          "weight": 25.338831901550293
+        }
+      ]
+    },
+    {
+      "name": "The Ring Two",
+      "box_office": 161500000.0,
+      "year": 2005,
+      "adjacency_list": [
+        {
+          "node": "David Dorfman",
+          "weight": 80930245.53571428
+        },
+        {
+          "node": "Daveigh Chase",
+          "weight": 40555245.53571428
+        },
+        {
+          "node": "Simon Baker",
+          "weight": 20367745.535714287
+        },
+        {
+          "node": "Naomi Watts",
+          "weight": 10273995.535714285
+        },
+        {
+          "node": "Elizabeth Perkins",
+          "weight": 5227120.535714285
+        },
+        {
+          "node": "Gary Cole",
+          "weight": 2703683.035714286
+        },
+        {
+          "node": "Sissy Spacek",
+          "weight": 1441964.2857142857
+        }
+      ]
+    },
+    {
+      "name": "North Country",
+      "box_office": 25200000.0,
+      "year": 2005,
+      "adjacency_list": [
+        {
+          "node": "Jeremy Renner",
+          "weight": 12993750.0
+        },
+        {
+          "node": "Sean Bean",
+          "weight": 6693750.0
+        },
+        {
+          "node": "Frances McDormand",
+          "weight": 3543750.0
+        },
+        {
+          "node": "Sissy Spacek",
+          "weight": 1968750.0
+        }
+      ]
+    },
+    {
+      "name": "An American Haunting",
+      "box_office": 29612137.0,
+      "year": 2005,
+      "adjacency_list": [
+        {
+          "node": "Rachel Hurd-Wood",
+          "weight": 16039907.541666666
+        },
+        {
+          "node": "James D'Arcy",
+          "weight": 8636873.291666666
+        },
+        {
+          "node": "Sissy Spacek",
+          "weight": 4935356.166666667
+        }
+      ]
+    },
+    {
+      "name": "Gray Matters",
+      "box_office": 59000.0,
+      "year": 2006,
+      "adjacency_list": [
+        {
+          "node": "Heather Graham",
+          "weight": 29868.75
+        },
+        {
+          "node": "Rachel Shelley",
+          "weight": 15118.75
+        },
+        {
+          "node": "Alan Cumming",
+          "weight": 7743.75
+        },
+        {
+          "node": "Tom Cavanagh",
+          "weight": 4056.25
+        },
+        {
+          "node": "Sissy Spacek",
+          "weight": 2212.5
+        }
+      ]
+    },
+    {
+      "name": "Hot Rod",
+      "box_office": 14334401.0,
+      "year": 2007,
+      "adjacency_list": [
+        {
+          "node": "Bill Hader",
+          "weight": 7764467.208333333
+        },
+        {
+          "node": "Danny McBride",
+          "weight": 4180866.9583333335
+        },
+        {
+          "node": "Sissy Spacek",
+          "weight": 2389066.8333333335
+        }
+      ]
+    },
+    {
+      "name": "Lake City",
+      "box_office": 12686.0,
+      "year": 2008,
+      "adjacency_list": [
+        {
+          "node": "Troy Garity",
+          "weight": 6422.2875
+        },
+        {
+          "node": "Rebecca Romijn",
+          "weight": 3250.7875
+        },
+        {
+          "node": "Drea de Matteo",
+          "weight": 1665.0375
+        },
+        {
+          "node": "Keith Carradine",
+          "weight": 872.1625
+        },
+        {
+          "node": "Sissy Spacek",
+          "weight": 475.725
+        }
+      ]
+    },
+    {
+      "name": "Four Christmases",
+      "box_office": 163700000.0,
+      "year": 2008,
+      "adjacency_list": [
+        {
+          "node": "Reese Witherspoon",
+          "weight": 82276302.08333333
+        },
+        {
+          "node": "Vince Vaughn",
+          "weight": 41351302.083333336
+        },
+        {
+          "node": "Tim McGraw",
+          "weight": 20888802.083333332
+        },
+        {
+          "node": "Dwight Yoakam",
+          "weight": 10657552.083333334
+        },
+        {
+          "node": "Sissy Spacek",
+          "weight": 5541927.083333333
+        },
+        {
+          "node": "Jon Voight",
+          "weight": 2984114.5833333335
+        }
+      ]
+    },
+    {
+      "name": "Get Low",
+      "box_office": 9700000.0,
+      "year": 2009,
+      "adjacency_list": [
+        {
+          "node": "Lucas Black",
+          "weight": 5001562.5
+        },
+        {
+          "node": "Bill Murray",
+          "weight": 2576562.5
+        },
+        {
+          "node": "Sissy Spacek",
+          "weight": 1364062.5
+        },
+        {
+          "node": "Bill Cobbs",
+          "weight": 757812.5
+        }
+      ]
+    },
+    {
+      "name": "The Help",
+      "box_office": 216600000.0,
+      "year": 2011,
+      "adjacency_list": [
+        {
+          "node": "Bryce Dallas Howard",
+          "weight": 109653750.0
+        },
+        {
+          "node": "Octavia Spencer",
+          "weight": 55503750.0
+        },
+        {
+          "node": "Viola Davis",
+          "weight": 28428750.0
+        },
+        {
+          "node": "Allison Janney",
+          "weight": 14891250.0
+        },
+        {
+          "node": "Sissy Spacek",
+          "weight": 8122500.0
+        }
+      ]
+    },
+    {
+      "name": "Deadfall",
+      "box_office": 1900000.0,
+      "year": 2012,
+      "adjacency_list": [
+        {
+          "node": "Olivia Wilde",
+          "weight": 961875.0
+        },
+        {
+          "node": "Charlie Hunnam",
+          "weight": 486875.0
+        },
+        {
+          "node": "Eric Bana",
+          "weight": 249375.0
+        },
+        {
+          "node": "Treat Williams",
+          "weight": 130625.0
+        },
+        {
+          "node": "Sissy Spacek",
+          "weight": 71250.0
+        }
+      ]
+    },
+    {
+      "name": "Ragtime",
+      "box_office": 11099118.0,
+      "year": 1981,
+      "adjacency_list": [
+        {
+          "node": "Jeff Daniels",
+          "weight": 6936948.75
+        },
+        {
+          "node": "James Cagney",
+          "weight": 4162169.25
+        }
+      ]
+    },
+    {
+      "name": "Terms of Endearment",
+      "box_office": 108400000.0,
+      "year": 1983,
+      "adjacency_list": [
+        {
+          "node": "Jeff Daniels",
+          "weight": 55893750.0
+        },
+        {
+          "node": "John Lithgow",
+          "weight": 28793750.0
+        },
+        {
+          "node": "Danny DeVito",
+          "weight": 15243750.0
+        },
+        {
+          "node": "Shirley MacLaine",
+          "weight": 8468750.0
+        }
+      ]
+    },
+    {
+      "name": "The Purple Rose of Cairo",
+      "box_office": 10631333.0,
+      "year": 1985,
+      "adjacency_list": [
+        {
+          "node": "Jeff Daniels",
+          "weight": 5758638.708333333
+        },
+        {
+          "node": "Mia Farrow",
+          "weight": 3100805.4583333335
+        },
+        {
+          "node": "Danny Aiello",
+          "weight": 1771888.8333333333
+        }
+      ]
+    },
+    {
+      "name": "Something Wild",
+      "box_office": 8400000.0,
+      "year": 1986,
+      "adjacency_list": [
+        {
+          "node": "Melanie Griffith",
+          "weight": 4550000.0
+        },
+        {
+          "node": "Ray Liotta",
+          "weight": 2450000.0
+        },
+        {
+          "node": "Jeff Daniels",
+          "weight": 1400000.0
+        }
+      ]
+    },
+    {
+      "name": "Heartburn",
+      "box_office": 25300000.0,
+      "year": 1986,
+      "adjacency_list": [
+        {
+          "node": "Jeff Daniels",
+          "weight": 15812500.0
+        },
+        {
+          "node": "Meryl Streep",
+          "weight": 9487500.0
+        }
+      ]
+    },
+    {
+      "name": "Radio Days",
+      "box_office": 14800000.0,
+      "year": 1987,
+      "adjacency_list": [
+        {
+          "node": "Seth Green",
+          "weight": 7403211.805555556
+        },
+        {
+          "node": "Jeff Daniels",
+          "weight": 3703211.8055555555
+        },
+        {
+          "node": "Robert Joy",
+          "weight": 1853211.8055555555
+        },
+        {
+          "node": "Julie Kavner",
+          "weight": 928211.8055555555
+        },
+        {
+          "node": "Renée Lippin",
+          "weight": 465711.80555555556
+        },
+        {
+          "node": "Josh Mostel",
+          "weight": 234461.80555555556
+        },
+        {
+          "node": "Wallace Shawn",
+          "weight": 118836.80555555556
+        },
+        {
+          "node": "Tony Roberts",
+          "weight": 61024.305555555555
+        },
+        {
+          "node": "Kenneth Mars",
+          "weight": 32118.055555555555
+        }
+      ]
+    },
+    {
+      "name": "The House on Carroll Street",
+      "box_office": 459824.0,
+      "year": 1988,
+      "adjacency_list": [
+        {
+          "node": "Jeff Daniels",
+          "weight": 287390.0
+        },
+        {
+          "node": "Mandy Patinkin",
+          "weight": 172434.0
+        }
+      ]
+    },
+    {
+      "name": "Sweet Hearts Dance",
+      "box_office": 3790493.0,
+      "year": 1941,
+      "adjacency_list": [
+        {
+          "node": "Justin Henry",
+          "weight": 1954472.953125
+        },
+        {
+          "node": "Jeff Daniels",
+          "weight": 1006849.703125
+        },
+        {
+          "node": "Don Johnson",
+          "weight": 533038.078125
+        },
+        {
+          "node": "Susan Sarandon",
+          "weight": 296132.265625
+        }
+      ]
+    },
+    {
+      "name": "Checking Out",
+      "box_office": 31000.0,
+      "year": 1989,
+      "adjacency_list": [
+        {
+          "node": "Jeff Daniels",
+          "weight": 31000.0
+        }
+      ]
+    },
+    {
+      "name": "Arachnophobia",
+      "box_office": 53200000.0,
+      "year": 1990,
+      "adjacency_list": [
+        {
+          "node": "Julian Sands",
+          "weight": 28816666.666666668
+        },
+        {
+          "node": "Harley Jane Kozak",
+          "weight": 15516666.666666666
+        },
+        {
+          "node": "Jeff Daniels",
+          "weight": 8866666.666666666
+        }
+      ]
+    },
+    {
+      "name": "Welcome Home, Roxy Carmichael",
+      "box_office": 3989297.0,
+      "year": 1990,
+      "adjacency_list": [
+        {
+          "node": "Winona Ryder",
+          "weight": 2160869.2083333335
+        },
+        {
+          "node": "Laila Robins",
+          "weight": 1163544.9583333333
+        },
+        {
+          "node": "Jeff Daniels",
+          "weight": 664882.8333333334
+        }
+      ]
+    },
+    {
+      "name": "The Butcher's Wife",
+      "box_office": 9689816.0,
+      "year": 1991,
+      "adjacency_list": [
+        {
+          "node": "Demi Moore",
+          "weight": 4996311.375
+        },
+        {
+          "node": "Margaret Colin",
+          "weight": 2573857.375
+        },
+        {
+          "node": "Jeff Daniels",
+          "weight": 1362630.375
+        },
+        {
+          "node": "George Dzundza",
+          "weight": 757016.875
+        }
+      ]
+    },
+    {
+      "name": "Rain Without Thunder",
+      "box_office": 5000.0,
+      "year": 1993,
+      "adjacency_list": [
+        {
+          "node": "Jeff Daniels",
+          "weight": 3125.0
+        },
+        {
+          "node": "Betty Buckley",
+          "weight": 1875.0
+        }
+      ]
+    },
+    {
+      "name": "Gettysburg",
+      "box_office": 10769960.0,
+      "year": 1993,
+      "adjacency_list": [
+        {
+          "node": "Jeff Daniels",
+          "weight": 5452292.25
+        },
+        {
+          "node": "Stephen Lang",
+          "weight": 2759802.25
+        },
+        {
+          "node": "Sam Elliott",
+          "weight": 1413557.25
+        },
+        {
+          "node": "Richard Jordan",
+          "weight": 740434.75
+        },
+        {
+          "node": "Richard Anderson",
+          "weight": 403873.5
+        }
+      ]
+    },
+    {
+      "name": "Speed",
+      "box_office": 350400000.0,
+      "year": 1994,
+      "adjacency_list": [
+        {
+          "node": "Jeff Daniels",
+          "weight": 219000000.0
+        },
+        {
+          "node": "Joe Morton",
+          "weight": 131400000.0
+        }
+      ]
+    }
+  ]
+}
